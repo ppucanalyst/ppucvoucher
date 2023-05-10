@@ -1,0 +1,2642 @@
+[
+    {
+        "ISSUE_DATE": "May 10, 2023 14:38:55",
+        "RECEIPT_NO": "85046\/20373",
+        "METER_NO": "'07057779865",
+        "ACCT_NAME": "CHARLENE MERSAI",
+        "ACCT_NO": "P06572400",
+        "VOUCHER_NO": "2293 9495 4888 8823 3746",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:45:52",
+        "RECEIPT_NO": "85046\/20374",
+        "METER_NO": "'07077091440",
+        "ACCT_NAME": "EDWIN MAMORU",
+        "ACCT_NO": "P06343100",
+        "VOUCHER_NO": "0495 6869 3741 9057 4413",
+        "TOTAL_KWH": "146.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:46:09",
+        "RECEIPT_NO": "85046\/20375",
+        "METER_NO": "'07144544918",
+        "ACCT_NAME": "TCHUZIE & SHERRYANN TADAO",
+        "ACCT_NO": "P06613400",
+        "VOUCHER_NO": "4062 7949 0639 6269 0596",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:46:22",
+        "RECEIPT_NO": "85046\/20376",
+        "METER_NO": "'07077095516",
+        "ACCT_NAME": "SORCH V. MEYAR",
+        "ACCT_NO": "P06363400",
+        "VOUCHER_NO": "5287 1740 6075 6485 2587",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:46:42",
+        "RECEIPT_NO": "85046\/20377",
+        "METER_NO": "'07144537466",
+        "ACCT_NAME": "STEPHEN SANTOS",
+        "ACCT_NO": "P06597000",
+        "VOUCHER_NO": "4636 4965 3364 7216 1163",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:46:58",
+        "RECEIPT_NO": "85046\/20378",
+        "METER_NO": "'07097970144",
+        "ACCT_NAME": "NAMBERTHA SMAU",
+        "ACCT_NO": "P06520900",
+        "VOUCHER_NO": "5878 7456 5401 4595 8890",
+        "TOTAL_KWH": "143.9",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:47:22",
+        "RECEIPT_NO": "85046\/20379",
+        "METER_NO": "'07147932599",
+        "ACCT_NAME": "DAVIS THOME",
+        "ACCT_NO": "P06675400",
+        "VOUCHER_NO": "7071 7634 3017 0687 9488",
+        "TOTAL_KWH": "139.5",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:47:34",
+        "RECEIPT_NO": "85046\/20380",
+        "METER_NO": "'07147949155",
+        "ACCT_NAME": "STARGEL MAMIS",
+        "ACCT_NO": "P06244800",
+        "VOUCHER_NO": "0181 8188 5849 6671 6396",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:47:45",
+        "RECEIPT_NO": "85046\/20381",
+        "METER_NO": "'07147899392",
+        "ACCT_NAME": "RISAO BAUSOCH",
+        "ACCT_NO": "P06641100",
+        "VOUCHER_NO": "1475 5731 1496 2557 8937",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:47:56",
+        "RECEIPT_NO": "85046\/20382",
+        "METER_NO": "'07097971670",
+        "ACCT_NAME": "ALFONS NAGATA UPSTAIRS",
+        "ACCT_NO": "P06488100",
+        "VOUCHER_NO": "4306 8491 3710 8244 6325",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:48:08",
+        "RECEIPT_NO": "85046\/20383",
+        "METER_NO": "'07101017403",
+        "ACCT_NAME": "SHEILA SILMAI",
+        "ACCT_NO": "P06390100",
+        "VOUCHER_NO": "5589 7120 8209 7986 9930",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:49:23",
+        "RECEIPT_NO": "85046\/20384",
+        "METER_NO": "'07053085432",
+        "ACCT_NAME": "ALVINA M. RIUNGEL",
+        "ACCT_NO": "P06210500",
+        "VOUCHER_NO": "5122 2345 2586 4323 8743",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:49:37",
+        "RECEIPT_NO": "85046\/20385",
+        "METER_NO": "'07097970854",
+        "ACCT_NAME": "TAWII MENGLOI",
+        "ACCT_NO": "P06481200",
+        "VOUCHER_NO": "1209 4926 0665 0987 0910",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:49:48",
+        "RECEIPT_NO": "85046\/20386",
+        "METER_NO": "'07057817400",
+        "ACCT_NAME": "CLARA SABURO",
+        "ACCT_NO": "P06217300",
+        "VOUCHER_NO": "2080 4883 6591 4490 3917",
+        "TOTAL_KWH": "146.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:49:57",
+        "RECEIPT_NO": "85046\/20387",
+        "METER_NO": "'07057780285",
+        "ACCT_NAME": "MENGITIB FRANZ",
+        "ACCT_NO": "P06297200",
+        "VOUCHER_NO": "0795 7253 6418 1206 0588",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:50:10",
+        "RECEIPT_NO": "85046\/20388",
+        "METER_NO": "'07057818655",
+        "ACCT_NAME": "JASON BREL JR.",
+        "ACCT_NO": "P06269600",
+        "VOUCHER_NO": "4341 9197 8007 2425 2462",
+        "TOTAL_KWH": "146.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:50:21",
+        "RECEIPT_NO": "85046\/20389",
+        "METER_NO": "'07147948892",
+        "ACCT_NAME": "HAYES MALSOL #2",
+        "ACCT_NO": "P06665500",
+        "VOUCHER_NO": "0514 2176 6600 0230 9206",
+        "TOTAL_KWH": "154.7",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:50:30",
+        "RECEIPT_NO": "85046\/20390",
+        "METER_NO": "'07106549038",
+        "ACCT_NAME": "LESTER REKEMESIK",
+        "ACCT_NO": "P06521400",
+        "VOUCHER_NO": "5417 4752 8061 2790 8419",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:50:41",
+        "RECEIPT_NO": "85046\/20391",
+        "METER_NO": "'07077096035",
+        "ACCT_NAME": "HARUO SALVADOR",
+        "ACCT_NO": "P06367400",
+        "VOUCHER_NO": "6154 3510 4896 5616 6456",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:50:50",
+        "RECEIPT_NO": "85046\/20392",
+        "METER_NO": "'07110878670",
+        "ACCT_NAME": "TANI ICHIRO",
+        "ACCT_NO": "P06581500",
+        "VOUCHER_NO": "4705 1662 8019 2038 5121",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:50:59",
+        "RECEIPT_NO": "85046\/20393",
+        "METER_NO": "'07147950740",
+        "ACCT_NAME": "STEVENSON NGIRAKED",
+        "ACCT_NO": "P06305200",
+        "VOUCHER_NO": "7249 2477 8945 5617 3241",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:51:10",
+        "RECEIPT_NO": "85046\/20394",
+        "METER_NO": "'07110214876",
+        "ACCT_NAME": "JULIET PEDRO",
+        "ACCT_NO": "P06524600",
+        "VOUCHER_NO": "3082 1816 7399 2594 5766",
+        "TOTAL_KWH": "146.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:51:19",
+        "RECEIPT_NO": "85046\/20395",
+        "METER_NO": "'07110892671",
+        "ACCT_NAME": "KYIOMI MITARO",
+        "ACCT_NO": "P06539000",
+        "VOUCHER_NO": "3579 8411 1867 3892 9465",
+        "TOTAL_KWH": "153.9",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:51:33",
+        "RECEIPT_NO": "85046\/20396",
+        "METER_NO": "'07097961945",
+        "ACCT_NAME": "ROY FRANCISCO",
+        "ACCT_NO": "P06407400",
+        "VOUCHER_NO": "3899 6462 8126 2887 7036",
+        "TOTAL_KWH": "138.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:51:46",
+        "RECEIPT_NO": "85046\/20397",
+        "METER_NO": "'07097962760",
+        "ACCT_NAME": "RIEGERT N. BLELAI",
+        "ACCT_NO": "P06415600",
+        "VOUCHER_NO": "4848 0229 8566 4215 7355",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:52:38",
+        "RECEIPT_NO": "85046\/20398",
+        "METER_NO": "'07097963636",
+        "ACCT_NAME": "OPDULIA MALSOL",
+        "ACCT_NO": "P06422000",
+        "VOUCHER_NO": "0784 4680 3194 0594 3457",
+        "TOTAL_KWH": "137.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:52:49",
+        "RECEIPT_NO": "85046\/20399",
+        "METER_NO": "'07107718244",
+        "ACCT_NAME": "AILEEN TECHUR",
+        "ACCT_NO": "P06510600",
+        "VOUCHER_NO": "0124 1671 1991 5279 9648",
+        "TOTAL_KWH": "146.6",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:52:59",
+        "RECEIPT_NO": "85046\/20400",
+        "METER_NO": "'07147948967",
+        "ACCT_NAME": "RUDIMCH KURODA",
+        "ACCT_NO": "P06665800",
+        "VOUCHER_NO": "2481 3346 9845 8671 8634",
+        "TOTAL_KWH": "139.5",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:53:10",
+        "RECEIPT_NO": "85046\/20401",
+        "METER_NO": "'07097966985",
+        "ACCT_NAME": "HAPPY OILOUCH",
+        "ACCT_NO": "P06451700",
+        "VOUCHER_NO": "1441 1567 1266 0537 7995",
+        "TOTAL_KWH": "146.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:53:19",
+        "RECEIPT_NO": "85046\/20402",
+        "METER_NO": "'07110218638",
+        "ACCT_NAME": "FRANZ TELLEI",
+        "ACCT_NO": "P06531600",
+        "VOUCHER_NO": "2994 8768 0383 7129 2445",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:53:29",
+        "RECEIPT_NO": "85046\/20403",
+        "METER_NO": "'07097963784",
+        "ACCT_NAME": "MARK ORRUKEM",
+        "ACCT_NO": "P06423200",
+        "VOUCHER_NO": "3773 4141 7205 6997 0629",
+        "TOTAL_KWH": "146.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:53:40",
+        "RECEIPT_NO": "85046\/20404",
+        "METER_NO": "'07097969864",
+        "ACCT_NAME": "RODNEY ESEBEI",
+        "ACCT_NO": "P06473200",
+        "VOUCHER_NO": "4310 3260 3533 0385 2630",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:53:59",
+        "RECEIPT_NO": "85046\/20405",
+        "METER_NO": "'07147949163",
+        "ACCT_NAME": "LILY IKEYA",
+        "ACCT_NO": "P06689900",
+        "VOUCHER_NO": "5401 8441 4538 8437 0844",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:54:40",
+        "RECEIPT_NO": "85046\/20406",
+        "METER_NO": "'07097967819",
+        "ACCT_NAME": "SILAS KINGZIO",
+        "ACCT_NO": "P06193700",
+        "VOUCHER_NO": "1232 4080 3872 5265 7502",
+        "TOTAL_KWH": "152.2",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:56:27",
+        "RECEIPT_NO": "85046\/20407",
+        "METER_NO": "'07110879793",
+        "ACCT_NAME": "REMOKET MARKUB",
+        "ACCT_NO": "P06588700",
+        "VOUCHER_NO": "3976 7558 4964 6786 9169",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:56:35",
+        "RECEIPT_NO": "85046\/20408",
+        "METER_NO": "'07057779352",
+        "ACCT_NAME": "VERNON MIKEL",
+        "ACCT_NO": "P06301400",
+        "VOUCHER_NO": "2556 7577 2863 4794 1549",
+        "TOTAL_KWH": "154.7",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:56:44",
+        "RECEIPT_NO": "85046\/20409",
+        "METER_NO": "'07144537805",
+        "ACCT_NAME": "ROBIN NGIRALMUUT",
+        "ACCT_NO": "P06598700",
+        "VOUCHER_NO": "3775 9519 3985 9056 1525",
+        "TOTAL_KWH": "146.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:57:00",
+        "RECEIPT_NO": "85046\/20410",
+        "METER_NO": "'07053087628",
+        "ACCT_NAME": "MARIA BONA ISIMANG",
+        "ACCT_NO": "P06237400",
+        "VOUCHER_NO": "1229 9589 8797 4435 8752",
+        "TOTAL_KWH": "124.8",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:58:51",
+        "RECEIPT_NO": "85046\/20411",
+        "METER_NO": "'07050106595",
+        "ACCT_NAME": "MARCELUS TECHUR",
+        "ACCT_NO": "P06353300",
+        "VOUCHER_NO": "7135 9222 7086 0074 6932",
+        "TOTAL_KWH": "153.1",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:59:02",
+        "RECEIPT_NO": "85046\/20412",
+        "METER_NO": "'07147915503",
+        "ACCT_NAME": "BUNGELLONG TEBELAK",
+        "ACCT_NO": "P06705200",
+        "VOUCHER_NO": "6469 3336 1901 0023 9028",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:59:14",
+        "RECEIPT_NO": "85046\/20413",
+        "METER_NO": "'07097966670",
+        "ACCT_NAME": "FERNANDO KEWII",
+        "ACCT_NO": "P06448600",
+        "VOUCHER_NO": "4647 7662 4655 8998 9930",
+        "TOTAL_KWH": "141.7",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:59:23",
+        "RECEIPT_NO": "85046\/20414",
+        "METER_NO": "'07050042469",
+        "ACCT_NAME": "HARUKO DEMEI",
+        "ACCT_NO": "P06320300",
+        "VOUCHER_NO": "1322 0476 5676 0049 8362",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:59:34",
+        "RECEIPT_NO": "85046\/20415",
+        "METER_NO": "'07097971555",
+        "ACCT_NAME": "VALERIA BREL",
+        "ACCT_NO": "P06487400",
+        "VOUCHER_NO": "6109 2509 5631 2289 9819",
+        "TOTAL_KWH": "158.7",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:59:45",
+        "RECEIPT_NO": "85046\/20416",
+        "METER_NO": "'07050042642",
+        "ACCT_NAME": "LADY NGIRATKAKL",
+        "ACCT_NO": "P06323200",
+        "VOUCHER_NO": "4542 4043 4335 7384 9788",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 14:59:55",
+        "RECEIPT_NO": "85046\/20417",
+        "METER_NO": "'07101015712",
+        "ACCT_NAME": "DAIZIRO NAKAMURA C\/O RAYMOND NAKAMURA",
+        "ACCT_NO": "P06400700",
+        "VOUCHER_NO": "6115 0833 4698 3834 3898",
+        "TOTAL_KWH": "151.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:00:04",
+        "RECEIPT_NO": "85046\/20418",
+        "METER_NO": "'07097968734",
+        "ACCT_NAME": "CHALETTE NGIRAIECHOL",
+        "ACCT_NO": "P06465400",
+        "VOUCHER_NO": "0876 8836 0640 5126 2254",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:00:15",
+        "RECEIPT_NO": "85046\/20419",
+        "METER_NO": "'07110214736",
+        "ACCT_NAME": "JUSTINO MECHAET",
+        "ACCT_NO": "P06535700",
+        "VOUCHER_NO": "0259 5512 6783 5613 7142",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:00:25",
+        "RECEIPT_NO": "85046\/20420",
+        "METER_NO": "'07144545618",
+        "ACCT_NAME": "TADAO SKEBONG #2",
+        "ACCT_NO": "P06607300",
+        "VOUCHER_NO": "6204 0971 5408 6626 5236",
+        "TOTAL_KWH": "151.0",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:03:29",
+        "RECEIPT_NO": "85046\/20421",
+        "METER_NO": "'07057817798",
+        "ACCT_NAME": "JERMAEND ELIAS",
+        "ACCT_NO": "P06272400",
+        "VOUCHER_NO": "2013 7480 3841 2351 8478",
+        "TOTAL_KWH": "145.2",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:03:42",
+        "RECEIPT_NO": "85046\/20422",
+        "METER_NO": "'07050042543",
+        "ACCT_NAME": "LALII OITERONG",
+        "ACCT_NO": "P06235400",
+        "VOUCHER_NO": "0705 1685 4386 0517 6925",
+        "TOTAL_KWH": "163.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:06:45",
+        "RECEIPT_NO": "85046\/20423",
+        "METER_NO": "'07077095656",
+        "ACCT_NAME": "BRADLEY AUGUSTINE",
+        "ACCT_NO": "P06366000",
+        "VOUCHER_NO": "6467 2163 2598 4822 6083",
+        "TOTAL_KWH": "150.4",
+        "TOTAL_VALUE": "$65.46"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:07:27",
+        "RECEIPT_NO": "85046\/20424",
+        "METER_NO": "'07101017213",
+        "ACCT_NAME": "FELIX JR. MEREB",
+        "ACCT_NO": "P06405500",
+        "VOUCHER_NO": "4054 8896 8322 4131 0957",
+        "TOTAL_KWH": "152.4",
+        "TOTAL_VALUE": "$64.36"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:07:41",
+        "RECEIPT_NO": "85046\/20425",
+        "METER_NO": "'07147949916",
+        "ACCT_NAME": "HECTOR FRASER",
+        "ACCT_NO": "P06224500",
+        "VOUCHER_NO": "0912 9044 9402 5647 8116",
+        "TOTAL_KWH": "151.8",
+        "TOTAL_VALUE": "$64.08"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:07:54",
+        "RECEIPT_NO": "85046\/20426",
+        "METER_NO": "'07110218679",
+        "ACCT_NAME": "DILMAI HARUO",
+        "ACCT_NO": "P06532100",
+        "VOUCHER_NO": "1592 4447 8248 6482 9761",
+        "TOTAL_KWH": "155.3",
+        "TOTAL_VALUE": "$61.57"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:08:10",
+        "RECEIPT_NO": "85046\/20427",
+        "METER_NO": "'07110916975",
+        "ACCT_NAME": "MARGARITA MENGESBUUCH",
+        "ACCT_NO": "P06225500",
+        "VOUCHER_NO": "0734 3366 5283 2376 0226",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:09:51",
+        "RECEIPT_NO": "85046\/20428",
+        "METER_NO": "'07053085739",
+        "ACCT_NAME": "ALFONSO NGIRNGOTEL",
+        "ACCT_NO": "P06227000",
+        "VOUCHER_NO": "0442 7600 6374 8174 1069",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:10:02",
+        "RECEIPT_NO": "85046\/20429",
+        "METER_NO": "'07144537482",
+        "ACCT_NAME": "KATO KATOSANG",
+        "ACCT_NO": "P06346300",
+        "VOUCHER_NO": "2543 8896 0579 7856 9473",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:10:13",
+        "RECEIPT_NO": "85046\/20430",
+        "METER_NO": "'07050105894",
+        "ACCT_NAME": "KIMIYO NAKAMURA RM#5",
+        "ACCT_NO": "P06360800",
+        "VOUCHER_NO": "3196 1826 5002 0452 6654",
+        "TOTAL_KWH": "127.3",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:10:23",
+        "RECEIPT_NO": "85046\/20431",
+        "METER_NO": "'07082740171",
+        "ACCT_NAME": "DILBELAU DILUTAOCH",
+        "ACCT_NO": "P06377800",
+        "VOUCHER_NO": "3560 8734 8013 8189 9219",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:10:33",
+        "RECEIPT_NO": "85046\/20432",
+        "METER_NO": "'07110218950",
+        "ACCT_NAME": "ROXIE NGIRAINGAS",
+        "ACCT_NO": "P06382600",
+        "VOUCHER_NO": "1804 5804 7530 4664 3601",
+        "TOTAL_KWH": "142.5",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:10:44",
+        "RECEIPT_NO": "85046\/20433",
+        "METER_NO": "'07082736732",
+        "ACCT_NAME": "JEROME RAMARUI",
+        "ACCT_NO": "P06385500",
+        "VOUCHER_NO": "2524 4426 3747 3794 8418",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:10:54",
+        "RECEIPT_NO": "85046\/20434",
+        "METER_NO": "'07082736864",
+        "ACCT_NAME": "KIMIYO NAKAMURA RM#8",
+        "ACCT_NO": "P06385800",
+        "VOUCHER_NO": "5784 1082 8340 3624 2229",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:11:04",
+        "RECEIPT_NO": "85046\/20435",
+        "METER_NO": "'07101017536",
+        "ACCT_NAME": "GORDON TKEL",
+        "ACCT_NO": "P06396100",
+        "VOUCHER_NO": "1956 8065 1052 0257 0852",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:11:14",
+        "RECEIPT_NO": "85046\/20436",
+        "METER_NO": "'07097962679",
+        "ACCT_NAME": "SIERRA ISALIAS",
+        "ACCT_NO": "P06413600",
+        "VOUCHER_NO": "4935 0773 2264 7166 5978",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:11:24",
+        "RECEIPT_NO": "85046\/20437",
+        "METER_NO": "'07097963669",
+        "ACCT_NAME": "PAUL ANNES",
+        "ACCT_NO": "P06421800",
+        "VOUCHER_NO": "3195 9445 8239 6897 6434",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:11:35",
+        "RECEIPT_NO": "85046\/20438",
+        "METER_NO": "'07097965359",
+        "ACCT_NAME": "MERCY RAMARUI",
+        "ACCT_NO": "P06435000",
+        "VOUCHER_NO": "2687 1055 1570 6091 0056",
+        "TOTAL_KWH": "136.8",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:11:44",
+        "RECEIPT_NO": "85046\/20439",
+        "METER_NO": "'07097965565",
+        "ACCT_NAME": "SEBUU SKIBANG",
+        "ACCT_NO": "P06437200",
+        "VOUCHER_NO": "3280 0297 5550 3962 8436",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:11:55",
+        "RECEIPT_NO": "85046\/20440",
+        "METER_NO": "'07097967876",
+        "ACCT_NAME": "BAILEY THEODORE",
+        "ACCT_NO": "P06448900",
+        "VOUCHER_NO": "4565 5031 9475 9819 9217",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:12:06",
+        "RECEIPT_NO": "85046\/20441",
+        "METER_NO": "'07097966787",
+        "ACCT_NAME": "VALERIA RDIALL",
+        "ACCT_NO": "P06449300",
+        "VOUCHER_NO": "1444 0546 8809 2881 0053",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:12:15",
+        "RECEIPT_NO": "85046\/20442",
+        "METER_NO": "'07147951284",
+        "ACCT_NAME": "DIAL PIZZA",
+        "ACCT_NO": "P06459800",
+        "VOUCHER_NO": "6693 3655 0864 4892 4866",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:12:23",
+        "RECEIPT_NO": "85046\/20443",
+        "METER_NO": "'07097968676",
+        "ACCT_NAME": "MARS OLKERIIL",
+        "ACCT_NO": "P06464700",
+        "VOUCHER_NO": "2832 9208 8259 5581 7493",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:12:34",
+        "RECEIPT_NO": "85046\/20444",
+        "METER_NO": "'07107715992",
+        "ACCT_NAME": "HAINRICK HUZIKO",
+        "ACCT_NO": "P06496200",
+        "VOUCHER_NO": "2757 2247 4162 0180 6889",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:12:45",
+        "RECEIPT_NO": "85046\/20445",
+        "METER_NO": "'07107717956",
+        "ACCT_NAME": "SARAH RUBARIO",
+        "ACCT_NO": "P06507900",
+        "VOUCHER_NO": "1935 0364 5801 2144 1315",
+        "TOTAL_KWH": "142.5",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:12:55",
+        "RECEIPT_NO": "85046\/20446",
+        "METER_NO": "'07147910819",
+        "ACCT_NAME": "THELBOI BAIEI",
+        "ACCT_NO": "P06512800",
+        "VOUCHER_NO": "3124 1829 6952 7627 0165",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:13:04",
+        "RECEIPT_NO": "85046\/20447",
+        "METER_NO": "'07110218661",
+        "ACCT_NAME": "JOHANA ADERKEROI",
+        "ACCT_NO": "P06531800",
+        "VOUCHER_NO": "2320 6939 8801 4276 8436",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:13:18",
+        "RECEIPT_NO": "85046\/20448",
+        "METER_NO": "'07110897233",
+        "ACCT_NAME": "KUKONG SAKAZIRO",
+        "ACCT_NO": "P06541300",
+        "VOUCHER_NO": "1091 6309 2769 6818 3775",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:14:44",
+        "RECEIPT_NO": "85046\/20449",
+        "METER_NO": "'07057816394",
+        "ACCT_NAME": "REMASCH MADRACHELUIB",
+        "ACCT_NO": "P06568300",
+        "VOUCHER_NO": "2713 9675 6591 3872 3727",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:14:55",
+        "RECEIPT_NO": "85046\/20450",
+        "METER_NO": "'07110878522",
+        "ACCT_NAME": "JENNIFER TORIBIONG",
+        "ACCT_NO": "P06578500",
+        "VOUCHER_NO": "6581 9160 6322 1332 6801",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:15:04",
+        "RECEIPT_NO": "85046\/20451",
+        "METER_NO": "'07110879330",
+        "ACCT_NAME": "DIANA HESUS",
+        "ACCT_NO": "P06584300",
+        "VOUCHER_NO": "1820 1149 9926 4058 5160",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:15:13",
+        "RECEIPT_NO": "85046\/20452",
+        "METER_NO": "'07144534273",
+        "ACCT_NAME": "LUCIUS BEKETAUT",
+        "ACCT_NO": "P06589500",
+        "VOUCHER_NO": "4703 4329 9163 6557 7866",
+        "TOTAL_KWH": "140.3",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:15:22",
+        "RECEIPT_NO": "85046\/20453",
+        "METER_NO": "'07144536997",
+        "ACCT_NAME": "DELMA SIKONG",
+        "ACCT_NO": "P06593700",
+        "VOUCHER_NO": "6276 2773 4054 8077 6173",
+        "TOTAL_KWH": "149.9",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:15:31",
+        "RECEIPT_NO": "85046\/20454",
+        "METER_NO": "'07144544850",
+        "ACCT_NAME": "VERONICA TELIU",
+        "ACCT_NO": "P06611800",
+        "VOUCHER_NO": "4824 6755 0016 8979 6752",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:15:41",
+        "RECEIPT_NO": "85046\/20455",
+        "METER_NO": "'07147931468",
+        "ACCT_NAME": "DERYCK DEMK",
+        "ACCT_NO": "P06666400",
+        "VOUCHER_NO": "1622 1967 8909 7924 5463",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:15:51",
+        "RECEIPT_NO": "85046\/20456",
+        "METER_NO": "'07147952233",
+        "ACCT_NAME": "PUANANI PEDRO",
+        "ACCT_NO": "P06673700",
+        "VOUCHER_NO": "3041 7927 2506 8748 8436",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:16:01",
+        "RECEIPT_NO": "85046\/20457",
+        "METER_NO": "'07147910058",
+        "ACCT_NAME": "FELIX MEREB",
+        "ACCT_NO": "P06696500",
+        "VOUCHER_NO": "4925 6322 0847 6897 3986",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:16:32",
+        "RECEIPT_NO": "85046\/20458",
+        "METER_NO": "'07147916014",
+        "ACCT_NAME": "KATSUMI T. NGIRCHOKEBAI",
+        "ACCT_NO": "P06710800",
+        "VOUCHER_NO": "0709 2643 5550 9077 2682",
+        "TOTAL_KWH": "151.2",
+        "TOTAL_VALUE": "$59.63"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:16:50",
+        "RECEIPT_NO": "85046\/20459",
+        "METER_NO": "'07137644055",
+        "ACCT_NAME": "MENRANG MECHAET C\/O CLINDA JAMES",
+        "ACCT_NO": "P06556300",
+        "VOUCHER_NO": "1398 3376 4680 6018 6725",
+        "TOTAL_KWH": "122.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:17:04",
+        "RECEIPT_NO": "85046\/20460",
+        "METER_NO": "'07147951318",
+        "ACCT_NAME": "KERUNGIL M. AUGUSTINE",
+        "ACCT_NO": "P06657500",
+        "VOUCHER_NO": "3488 7845 3397 2778 2980",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:17:14",
+        "RECEIPT_NO": "85046\/20461",
+        "METER_NO": "'07147949320",
+        "ACCT_NAME": "OLIVIA K. MELTEL",
+        "ACCT_NO": "P06693700",
+        "VOUCHER_NO": "4113 5841 1148 8773 3214",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:17:24",
+        "RECEIPT_NO": "85046\/20462",
+        "METER_NO": "'07057817319",
+        "ACCT_NAME": "PHILA MARUGG",
+        "ACCT_NO": "P06250300",
+        "VOUCHER_NO": "0392 4041 9395 8663 8316",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:17:34",
+        "RECEIPT_NO": "85046\/20463",
+        "METER_NO": "'07110218943",
+        "ACCT_NAME": "VERNA OBAK",
+        "ACCT_NO": "P06532500",
+        "VOUCHER_NO": "0277 3446 4636 1164 1957",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:17:41",
+        "RECEIPT_NO": "85046\/20464",
+        "METER_NO": "'07097967397",
+        "ACCT_NAME": "MODESTO PETRUS",
+        "ACCT_NO": "P06263600",
+        "VOUCHER_NO": "2654 8728 2961 4344 8713",
+        "TOTAL_KWH": "117.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:17:52",
+        "RECEIPT_NO": "85046\/20465",
+        "METER_NO": "'07147899053",
+        "ACCT_NAME": "PETER MIKEL",
+        "ACCT_NO": "P06635800",
+        "VOUCHER_NO": "3548 8039 9271 7575 0081",
+        "TOTAL_KWH": "114.7",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:18:01",
+        "RECEIPT_NO": "85046\/20466",
+        "METER_NO": "'07107716958",
+        "ACCT_NAME": "VERONICA UMEDIP",
+        "ACCT_NO": "P06291100",
+        "VOUCHER_NO": "1026 2692 6057 5495 6628",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:18:08",
+        "RECEIPT_NO": "85046\/20467",
+        "METER_NO": "'07097963529",
+        "ACCT_NAME": "YASKO LEBAL STASH RENGUUL",
+        "ACCT_NO": "P06421400",
+        "VOUCHER_NO": "0511 6344 8217 5984 3486",
+        "TOTAL_KWH": "112.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:18:16",
+        "RECEIPT_NO": "85046\/20468",
+        "METER_NO": "'07147916717",
+        "ACCT_NAME": "RUEBEN INAWO",
+        "ACCT_NO": "P06227300",
+        "VOUCHER_NO": "6761 7548 4795 0880 0551",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:18:24",
+        "RECEIPT_NO": "85046\/20469",
+        "METER_NO": "'07097963677",
+        "ACCT_NAME": "SABRINA RECHELULK",
+        "ACCT_NO": "P06421700",
+        "VOUCHER_NO": "5254 5061 8120 2104 4302",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:18:32",
+        "RECEIPT_NO": "85046\/20470",
+        "METER_NO": "'07050042675",
+        "ACCT_NAME": "LEEMANSKY BLAU",
+        "ACCT_NO": "P06566400",
+        "VOUCHER_NO": "1933 8302 8978 4787 0017",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:18:42",
+        "RECEIPT_NO": "85046\/20471",
+        "METER_NO": "'07097968262",
+        "ACCT_NAME": "KERNGEL TESEI",
+        "ACCT_NO": "P06345900",
+        "VOUCHER_NO": "2258 0958 2016 0890 6128",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:18:50",
+        "RECEIPT_NO": "85046\/20472",
+        "METER_NO": "'07053088816",
+        "ACCT_NAME": "LIZETTE NGIRAIBAI",
+        "ACCT_NO": "P06214300",
+        "VOUCHER_NO": "2742 5133 2402 9138 2597",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:19:03",
+        "RECEIPT_NO": "85046\/20473",
+        "METER_NO": "'07147952084",
+        "ACCT_NAME": "MIMOKL SIMEON OR CHELSEA SABURO",
+        "ACCT_NO": "P06660900",
+        "VOUCHER_NO": "4238 5791 5963 0202 4488",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:19:13",
+        "RECEIPT_NO": "85046\/20474",
+        "METER_NO": "'07147945500",
+        "ACCT_NAME": "EMORY MESUBED",
+        "ACCT_NO": "P06678500",
+        "VOUCHER_NO": "3775 1175 8372 7810 4180",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:19:20",
+        "RECEIPT_NO": "85046\/20475",
+        "METER_NO": "'07053085614",
+        "ACCT_NAME": "CAMILUS NGIRMERIIL",
+        "ACCT_NO": "P06193400",
+        "VOUCHER_NO": "6925 7727 9463 7680 6544",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:19:37",
+        "RECEIPT_NO": "85046\/20476",
+        "METER_NO": "'07057817889",
+        "ACCT_NAME": "ROSELLA Y. MASAMI",
+        "ACCT_NO": "P06253900",
+        "VOUCHER_NO": "5067 2073 8591 4333 6372",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:19:45",
+        "RECEIPT_NO": "85046\/20477",
+        "METER_NO": "'07050043079",
+        "ACCT_NAME": "HANA INGAIS",
+        "ACCT_NO": "P06325800",
+        "VOUCHER_NO": "5557 9153 7786 2701 5400",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:19:57",
+        "RECEIPT_NO": "85046\/20478",
+        "METER_NO": "'07144537078",
+        "ACCT_NAME": "ANGELINE & INOSENCIO METEOLECHOL",
+        "ACCT_NO": "P06593400",
+        "VOUCHER_NO": "1601 5600 8145 2011 9504",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:20:16",
+        "RECEIPT_NO": "85046\/20479",
+        "METER_NO": "'07144542946",
+        "ACCT_NAME": "DONALYNN D.U. BUKUROU",
+        "ACCT_NO": "P06423100",
+        "VOUCHER_NO": "3620 9231 9259 4606 4425",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:20:25",
+        "RECEIPT_NO": "85046\/20480",
+        "METER_NO": "'07101017387",
+        "ACCT_NAME": "MITSKO RAFAEL",
+        "ACCT_NO": "P06390300",
+        "VOUCHER_NO": "1192 9062 4262 5374 5750",
+        "TOTAL_KWH": "118.7",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:20:34",
+        "RECEIPT_NO": "85046\/20481",
+        "METER_NO": "'07053084658",
+        "ACCT_NAME": "GRANT NGOTEL UEHARA",
+        "ACCT_NO": "P06203900",
+        "VOUCHER_NO": "6690 7077 1014 0889 1261",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:20:44",
+        "RECEIPT_NO": "85046\/20482",
+        "METER_NO": "'07107716867",
+        "ACCT_NAME": "RIKEL NAKAMURA",
+        "ACCT_NO": "P06310800",
+        "VOUCHER_NO": "2830 6047 7036 3222 5649",
+        "TOTAL_KWH": "131.7",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:20:52",
+        "RECEIPT_NO": "85046\/20483",
+        "METER_NO": "'07077091978",
+        "ACCT_NAME": "VIDA IMEONG",
+        "ACCT_NO": "P06337900",
+        "VOUCHER_NO": "5443 8376 8051 1418 7355",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:21:00",
+        "RECEIPT_NO": "85046\/20484",
+        "METER_NO": "'07110879587",
+        "ACCT_NAME": "JEROME OITERONG",
+        "ACCT_NO": "P06317500",
+        "VOUCHER_NO": "1498 2399 4186 9028 1400",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:21:09",
+        "RECEIPT_NO": "85046\/20485",
+        "METER_NO": "'07097966738",
+        "ACCT_NAME": "ESANG OLKERIIL",
+        "ACCT_NO": "P06447100",
+        "VOUCHER_NO": "3276 3568 6224 2525 8779",
+        "TOTAL_KWH": "130.8",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:21:20",
+        "RECEIPT_NO": "85046\/20486",
+        "METER_NO": "'07097967470",
+        "ACCT_NAME": "JOSHUA INGAIS",
+        "ACCT_NO": "P06454200",
+        "VOUCHER_NO": "6149 7196 1397 9113 5394",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:22:53",
+        "RECEIPT_NO": "85046\/20487",
+        "METER_NO": "'07137644337",
+        "ACCT_NAME": "DESTINY TROLII",
+        "ACCT_NO": "P06556000",
+        "VOUCHER_NO": "1987 9959 6983 8009 1647",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:23:01",
+        "RECEIPT_NO": "85046\/20488",
+        "METER_NO": "'07144534380",
+        "ACCT_NAME": "EMIKO BAULECHONG & MARGIE BLELAI",
+        "ACCT_NO": "P06590400",
+        "VOUCHER_NO": "3117 1782 0923 5404 2890",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:23:13",
+        "RECEIPT_NO": "85046\/20489",
+        "METER_NO": "'07147916204",
+        "ACCT_NAME": "CLINT MADRACHELUIB",
+        "ACCT_NO": "P06704800",
+        "VOUCHER_NO": "1534 1832 8976 4315 9083",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:23:24",
+        "RECEIPT_NO": "85046\/20490",
+        "METER_NO": "'07097968494",
+        "ACCT_NAME": "DENIKA SAKUMA",
+        "ACCT_NO": "P06464500",
+        "VOUCHER_NO": "0359 1085 4270 4862 7538",
+        "TOTAL_KWH": "126.1",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:23:35",
+        "RECEIPT_NO": "85046\/20491",
+        "METER_NO": "'07097968940",
+        "ACCT_NAME": "YUZIRO KLOULUBAK",
+        "ACCT_NO": "P06467200",
+        "VOUCHER_NO": "1803 2583 4874 7160 9136",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:24:51",
+        "RECEIPT_NO": "85046\/20492",
+        "METER_NO": "'07147929066",
+        "ACCT_NAME": "REBECCA I. HASINTO",
+        "ACCT_NO": "P06697700",
+        "VOUCHER_NO": "6869 6211 8179 1061 6909",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:25:00",
+        "RECEIPT_NO": "85046\/20493",
+        "METER_NO": "'07050106603",
+        "ACCT_NAME": "NARUO NGIRNGEMIUSECH",
+        "ACCT_NO": "P06354000",
+        "VOUCHER_NO": "5777 7716 7823 2962 7048",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:25:11",
+        "RECEIPT_NO": "85046\/20494",
+        "METER_NO": "'07110218877",
+        "ACCT_NAME": "GAILEEN GAILLIARD",
+        "ACCT_NO": "P06526700",
+        "VOUCHER_NO": "6140 5166 0136 9736 3743",
+        "TOTAL_KWH": "125.9",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:25:20",
+        "RECEIPT_NO": "85046\/20495",
+        "METER_NO": "'07055922640",
+        "ACCT_NAME": "CECILIA IKYASANG",
+        "ACCT_NO": "P06329200",
+        "VOUCHER_NO": "3470 7513 0218 9147 6438",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:25:29",
+        "RECEIPT_NO": "85046\/20496",
+        "METER_NO": "'07097969666",
+        "ACCT_NAME": "ELOISE YSAOL",
+        "ACCT_NO": "P06504200",
+        "VOUCHER_NO": "5390 9555 7539 1467 2780",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:25:38",
+        "RECEIPT_NO": "85046\/20497",
+        "METER_NO": "'07147945385",
+        "ACCT_NAME": "DILUBECH SAMIL",
+        "ACCT_NO": "P06652900",
+        "VOUCHER_NO": "5725 6612 4139 2997 6680",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:30:15",
+        "RECEIPT_NO": "85046\/20498",
+        "METER_NO": "'07110214728",
+        "ACCT_NAME": "ANDRES THING",
+        "ACCT_NO": "P06238300",
+        "VOUCHER_NO": "0104 9510 6788 6114 3165",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:30:24",
+        "RECEIPT_NO": "85046\/20499",
+        "METER_NO": "'07097965078",
+        "ACCT_NAME": "SABA TEWID",
+        "ACCT_NO": "P06433500",
+        "VOUCHER_NO": "4959 5019 2903 1223 0294",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:30:34",
+        "RECEIPT_NO": "85046\/20500",
+        "METER_NO": "'07097969187",
+        "ACCT_NAME": "DELFITHA DELEMEL",
+        "ACCT_NO": "P06469000",
+        "VOUCHER_NO": "6057 2927 5051 1937 0709",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:30:43",
+        "RECEIPT_NO": "85046\/20501",
+        "METER_NO": "'07097970904",
+        "ACCT_NAME": "JESSE SUMOR",
+        "ACCT_NO": "P06502100",
+        "VOUCHER_NO": "5579 1410 3430 1149 4510",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:30:53",
+        "RECEIPT_NO": "85046\/20502",
+        "METER_NO": "'07110897993",
+        "ACCT_NAME": "JEFFREY RECHETUKER",
+        "ACCT_NO": "P06540400",
+        "VOUCHER_NO": "2468 3334 6287 9141 7942",
+        "TOTAL_KWH": "130.8",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:31:04",
+        "RECEIPT_NO": "85046\/20503",
+        "METER_NO": "'07097964923",
+        "ACCT_NAME": "WALTER MARIUR",
+        "ACCT_NO": "P06437600",
+        "VOUCHER_NO": "3856 1831 1216 3917 9351",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:31:21",
+        "RECEIPT_NO": "85046\/20504",
+        "METER_NO": "'07147951177",
+        "ACCT_NAME": "PRINCE IDELKEI",
+        "ACCT_NO": "P06648800",
+        "VOUCHER_NO": "2954 2101 1821 4242 4703",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:31:32",
+        "RECEIPT_NO": "85046\/20505",
+        "METER_NO": "'07147900059",
+        "ACCT_NAME": "KAREN BREL",
+        "ACCT_NO": "P06632600",
+        "VOUCHER_NO": "7108 6945 0527 5340 2541",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:31:43",
+        "RECEIPT_NO": "85046\/20506",
+        "METER_NO": "'07137643925",
+        "ACCT_NAME": "AKEMI KALEB",
+        "ACCT_NO": "P06559500",
+        "VOUCHER_NO": "4732 3852 4387 9509 1961",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:31:52",
+        "RECEIPT_NO": "85046\/20507",
+        "METER_NO": "'07144537615",
+        "ACCT_NAME": "LOUISA NGIRAKED",
+        "ACCT_NO": "P06597700",
+        "VOUCHER_NO": "3278 7320 0589 5583 3047",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:32:02",
+        "RECEIPT_NO": "85046\/20508",
+        "METER_NO": "'07107718079",
+        "ACCT_NAME": "KUMER IDESMANG",
+        "ACCT_NO": "P06509200",
+        "VOUCHER_NO": "2938 6967 2238 7169 4644",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:32:10",
+        "RECEIPT_NO": "85046\/20509",
+        "METER_NO": "'07097965193",
+        "ACCT_NAME": "ELSA SUGAR",
+        "ACCT_NO": "P06477300",
+        "VOUCHER_NO": "0591 5705 1742 0121 2932",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:32:52",
+        "RECEIPT_NO": "85046\/20510",
+        "METER_NO": "'07106548923",
+        "ACCT_NAME": "KUNIHIRO YAMASHIRO",
+        "ACCT_NO": "P06205800",
+        "VOUCHER_NO": "1433 3948 4512 8250 3974",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:33:00",
+        "RECEIPT_NO": "85046\/20511",
+        "METER_NO": "'07147944628",
+        "ACCT_NAME": "LEONORE MAX",
+        "ACCT_NO": "P06702300",
+        "VOUCHER_NO": "5509 5226 4103 9137 4640",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:33:11",
+        "RECEIPT_NO": "85046\/20512",
+        "METER_NO": "'07082740023",
+        "ACCT_NAME": "BENJAMIN MASTERS",
+        "ACCT_NO": "P06374000",
+        "VOUCHER_NO": "4944 1202 8131 3351 2319",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:33:23",
+        "RECEIPT_NO": "85046\/20513",
+        "METER_NO": "'07147951086",
+        "ACCT_NAME": "ANDREA SABURO",
+        "ACCT_NO": "P06219700",
+        "VOUCHER_NO": "3737 3164 5921 6207 1778",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:33:31",
+        "RECEIPT_NO": "85046\/20514",
+        "METER_NO": "'07055922731",
+        "ACCT_NAME": "GRANT INGAIS",
+        "ACCT_NO": "P06329300",
+        "VOUCHER_NO": "2999 5515 7187 5533 4016",
+        "TOTAL_KWH": "130.8",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:33:40",
+        "RECEIPT_NO": "85046\/20515",
+        "METER_NO": "'07110214991",
+        "ACCT_NAME": "FREDRICK ANTHONIO",
+        "ACCT_NO": "P06532800",
+        "VOUCHER_NO": "4012 4665 7770 9453 4574",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:33:47",
+        "RECEIPT_NO": "85046\/20516",
+        "METER_NO": "'07077091739",
+        "ACCT_NAME": "YANANGI MATUL",
+        "ACCT_NO": "P06340600",
+        "VOUCHER_NO": "7229 5514 0864 1448 1039",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:33:55",
+        "RECEIPT_NO": "85046\/20517",
+        "METER_NO": "'07147945344",
+        "ACCT_NAME": "MITSUE TORIBIONG",
+        "ACCT_NO": "P06653100",
+        "VOUCHER_NO": "7306 4613 6249 9517 5053",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:34:03",
+        "RECEIPT_NO": "85046\/20518",
+        "METER_NO": "'07144537508",
+        "ACCT_NAME": "BIEB ILLEMELONG",
+        "ACCT_NO": "P06598100",
+        "VOUCHER_NO": "0961 8653 8576 6794 8328",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:34:10",
+        "RECEIPT_NO": "85046\/20519",
+        "METER_NO": "'07110917759",
+        "ACCT_NAME": "JENNIFER KUMANGAI",
+        "ACCT_NO": "P06544200",
+        "VOUCHER_NO": "2999 5727 7430 5044 8556",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:34:19",
+        "RECEIPT_NO": "85046\/20520",
+        "METER_NO": "'07107715513",
+        "ACCT_NAME": "ASHLEY HENRY",
+        "ACCT_NO": "P06492400",
+        "VOUCHER_NO": "6977 6369 2133 3664 8096",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:34:26",
+        "RECEIPT_NO": "85046\/20521",
+        "METER_NO": "'07077091655",
+        "ACCT_NAME": "DIRREOU MELIMARANG",
+        "ACCT_NO": "P06342300",
+        "VOUCHER_NO": "0996 5016 1410 3522 8610",
+        "TOTAL_KWH": "126.1",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:34:36",
+        "RECEIPT_NO": "85046\/20522",
+        "METER_NO": "'07147898360",
+        "ACCT_NAME": "IKREBAI BLESAM",
+        "ACCT_NO": "P06630500",
+        "VOUCHER_NO": "3735 6760 2696 2935 1232",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:34:46",
+        "RECEIPT_NO": "85046\/20523",
+        "METER_NO": "'07053087461",
+        "ACCT_NAME": "WILSON FRANZ",
+        "ACCT_NO": "P06238700",
+        "VOUCHER_NO": "2036 1018 8755 8401 0085",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:34:53",
+        "RECEIPT_NO": "85046\/20524",
+        "METER_NO": "'07147948579",
+        "ACCT_NAME": "KAYLA OBEKETANG",
+        "ACCT_NO": "P06688100",
+        "VOUCHER_NO": "6738 1117 4033 9437 5187",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:38:30",
+        "RECEIPT_NO": "85046\/20525",
+        "METER_NO": "'07144537870",
+        "ACCT_NAME": "DEBORAH NIRO",
+        "ACCT_NO": "P06599100",
+        "VOUCHER_NO": "2857 0147 7171 0743 4151",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:39:42",
+        "RECEIPT_NO": "85046\/20526",
+        "METER_NO": "'07147930916",
+        "ACCT_NAME": "LAINE RUBEANG DOWNSTAIRS #2",
+        "ACCT_NO": "P06679000",
+        "VOUCHER_NO": "4344 9237 4822 4608 0219",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:39:52",
+        "RECEIPT_NO": "85046\/20527",
+        "METER_NO": "'07110879900",
+        "ACCT_NAME": "ANTHONIO IYECHAD",
+        "ACCT_NO": "P06587000",
+        "VOUCHER_NO": "0591 3870 8721 4935 3774",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:40:01",
+        "RECEIPT_NO": "85046\/20528",
+        "METER_NO": "'07147945294",
+        "ACCT_NAME": "APRIL WATANABE",
+        "ACCT_NO": "P06301100",
+        "VOUCHER_NO": "5808 1003 7852 4872 3545",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:40:12",
+        "RECEIPT_NO": "85046\/20529",
+        "METER_NO": "'07097963826",
+        "ACCT_NAME": "PATRICIA ANTONIO",
+        "ACCT_NO": "P06423900",
+        "VOUCHER_NO": "2820 6531 3480 5717 9153",
+        "TOTAL_KWH": "130.8",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:40:22",
+        "RECEIPT_NO": "85046\/20530",
+        "METER_NO": "'07097962364",
+        "ACCT_NAME": "BIKEI SBAL",
+        "ACCT_NO": "P06410500",
+        "VOUCHER_NO": "1288 9388 2246 6158 5266",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:40:35",
+        "RECEIPT_NO": "85046\/20531",
+        "METER_NO": "'07147897461",
+        "ACCT_NAME": "AKEMI DELBIRT",
+        "ACCT_NO": "P06627100",
+        "VOUCHER_NO": "1297 4593 0109 6547 9340",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:40:49",
+        "RECEIPT_NO": "85046\/20532",
+        "METER_NO": "'07147950146",
+        "ACCT_NAME": "NGEDRONG AUGUST",
+        "ACCT_NO": "P06286700",
+        "VOUCHER_NO": "4163 7874 6054 2228 7294",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:41:04",
+        "RECEIPT_NO": "85046\/20533",
+        "METER_NO": "'07144545758",
+        "ACCT_NAME": "DELBECHEL ICHIRO",
+        "ACCT_NO": "P06369600",
+        "VOUCHER_NO": "4714 7660 0518 8011 1107",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:41:16",
+        "RECEIPT_NO": "85046\/20534",
+        "METER_NO": "'07107718657",
+        "ACCT_NAME": "ERNEST ONGIDOBEL ROOM #2",
+        "ACCT_NO": "P06520600",
+        "VOUCHER_NO": "5860 6889 5571 6093 7405",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:41:25",
+        "RECEIPT_NO": "85046\/20535",
+        "METER_NO": "'07053086901",
+        "ACCT_NAME": "FELIX OSILEK",
+        "ACCT_NO": "P06587700",
+        "VOUCHER_NO": "6659 3832 9366 9711 9774",
+        "TOTAL_KWH": "133.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:41:40",
+        "RECEIPT_NO": "85046\/20536",
+        "METER_NO": "'07144537490",
+        "ACCT_NAME": "SINECIO AUGUSTINE",
+        "ACCT_NO": "P06598300",
+        "VOUCHER_NO": "6777 5792 2249 6244 9070",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:41:49",
+        "RECEIPT_NO": "85046\/20537",
+        "METER_NO": "'07144536500",
+        "ACCT_NAME": "TRIOLLA UEHARA",
+        "ACCT_NO": "P06591100",
+        "VOUCHER_NO": "4726 3658 3004 2564 5672",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:42:00",
+        "RECEIPT_NO": "85046\/20538",
+        "METER_NO": "'07147948520",
+        "ACCT_NAME": "BARBINA OTIWII",
+        "ACCT_NO": "P06688200",
+        "VOUCHER_NO": "6037 1163 9544 5052 9018",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:42:10",
+        "RECEIPT_NO": "85046\/20539",
+        "METER_NO": "'07097967520",
+        "ACCT_NAME": "LUCY MARK",
+        "ACCT_NO": "P06234600",
+        "VOUCHER_NO": "3671 3352 6530 3041 8397",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:42:19",
+        "RECEIPT_NO": "85046\/20540",
+        "METER_NO": "'07101016231",
+        "ACCT_NAME": "URRIMCH FRANZ",
+        "ACCT_NO": "P06225000",
+        "VOUCHER_NO": "2645 9730 5312 6847 6603",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:42:29",
+        "RECEIPT_NO": "85046\/20541",
+        "METER_NO": "'07110897324",
+        "ACCT_NAME": "LAWRENCE NGIRAROROU",
+        "ACCT_NO": "P06248500",
+        "VOUCHER_NO": "5996 2431 3360 6085 4010",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:43:36",
+        "RECEIPT_NO": "85046\/20542",
+        "METER_NO": "'37263735872",
+        "ACCT_NAME": "BARMELIO IBUTIRANG",
+        "ACCT_NO": "P06565200",
+        "VOUCHER_NO": "3268 7660 8501 2960 3448",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:43:51",
+        "RECEIPT_NO": "85046\/20543",
+        "METER_NO": "'07147910579",
+        "ACCT_NAME": "JERRY SINGEO RESIDENCE",
+        "ACCT_NO": "P06294300",
+        "VOUCHER_NO": "5475 3589 6733 9443 8248",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:43:59",
+        "RECEIPT_NO": "85046\/20544",
+        "METER_NO": "'07057780038",
+        "ACCT_NAME": "FRANCIS S. ALONZ",
+        "ACCT_NO": "P06296200",
+        "VOUCHER_NO": "5352 9502 0140 1892 0322",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:44:07",
+        "RECEIPT_NO": "85046\/20545",
+        "METER_NO": "'07110219214",
+        "ACCT_NAME": "DESIREE MAD",
+        "ACCT_NO": "P06529900",
+        "VOUCHER_NO": "4761 2738 8347 5597 8724",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:44:15",
+        "RECEIPT_NO": "85046\/20546",
+        "METER_NO": "'07082736112",
+        "ACCT_NAME": "ROSE ADELBAI",
+        "ACCT_NO": "P06383400",
+        "VOUCHER_NO": "6070 2736 1667 2767 5950",
+        "TOTAL_KWH": "140.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:44:25",
+        "RECEIPT_NO": "85046\/20547",
+        "METER_NO": "'07144545261",
+        "ACCT_NAME": "GINALYNE TOWAI",
+        "ACCT_NO": "P06603500",
+        "VOUCHER_NO": "5422 8863 9400 1095 8174",
+        "TOTAL_KWH": "136.9",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:44:33",
+        "RECEIPT_NO": "85046\/20548",
+        "METER_NO": "'07144544645",
+        "ACCT_NAME": "JASSMERE RENGULBAI & FELISA MAIDESIL",
+        "ACCT_NO": "P06615300",
+        "VOUCHER_NO": "1483 5381 8667 3894 6184",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:44:42",
+        "RECEIPT_NO": "85046\/20549",
+        "METER_NO": "'07147943380",
+        "ACCT_NAME": "UCHARM MCARTHUR",
+        "ACCT_NO": "P06198400",
+        "VOUCHER_NO": "2770 6182 6695 2344 1634",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:44:51",
+        "RECEIPT_NO": "85046\/20550",
+        "METER_NO": "'07097965250",
+        "ACCT_NAME": "JOHN MENGIDAB",
+        "ACCT_NO": "P06436100",
+        "VOUCHER_NO": "4718 4388 7158 9204 5882",
+        "TOTAL_KWH": "127.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:45:00",
+        "RECEIPT_NO": "85046\/20551",
+        "METER_NO": "'07147910801",
+        "ACCT_NAME": "LAZARUS SMASERUI",
+        "ACCT_NO": "P06493400",
+        "VOUCHER_NO": "3479 8247 5469 3461 2219",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:45:07",
+        "RECEIPT_NO": "85046\/20552",
+        "METER_NO": "'07050042246",
+        "ACCT_NAME": "ARURANG NGIRAIBAKES",
+        "ACCT_NO": "P06319700",
+        "VOUCHER_NO": "3104 7175 1100 2574 8668",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:45:17",
+        "RECEIPT_NO": "85046\/20553",
+        "METER_NO": "'07110216145",
+        "ACCT_NAME": "PELEFOTI COOPER",
+        "ACCT_NO": "P06238600",
+        "VOUCHER_NO": "5372 8595 4372 5405 0763",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:45:25",
+        "RECEIPT_NO": "85046\/20554",
+        "METER_NO": "'07110215337",
+        "ACCT_NAME": "DAVIS MESUBED",
+        "ACCT_NO": "P06284600",
+        "VOUCHER_NO": "1709 4217 4387 0674 1557",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:45:34",
+        "RECEIPT_NO": "85046\/20555",
+        "METER_NO": "'07101017056",
+        "ACCT_NAME": "SINESIO SANDEI",
+        "ACCT_NO": "P06397800",
+        "VOUCHER_NO": "3995 9687 8798 2349 6918",
+        "TOTAL_KWH": "126.1",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:45:44",
+        "RECEIPT_NO": "85046\/20556",
+        "METER_NO": "'07097968478",
+        "ACCT_NAME": "JOLANDA WARREN",
+        "ACCT_NO": "P06463100",
+        "VOUCHER_NO": "0164 5086 1208 4899 0613",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:45:53",
+        "RECEIPT_NO": "85046\/20557",
+        "METER_NO": "'07110879751",
+        "ACCT_NAME": "ANN LUND OR TRES ILILAU",
+        "ACCT_NO": "P06586100",
+        "VOUCHER_NO": "4213 3307 9537 6080 7701",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:46:02",
+        "RECEIPT_NO": "85046\/20558",
+        "METER_NO": "'07147927656",
+        "ACCT_NAME": "JOSHUA OBAK",
+        "ACCT_NO": "P06674200",
+        "VOUCHER_NO": "5638 4660 4659 8589 5321",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:46:10",
+        "RECEIPT_NO": "85046\/20559",
+        "METER_NO": "'07110897902",
+        "ACCT_NAME": "WILSON SELBART",
+        "ACCT_NO": "P06543800",
+        "VOUCHER_NO": "0166 8051 4387 4877 9242",
+        "TOTAL_KWH": "140.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:46:19",
+        "RECEIPT_NO": "85046\/20560",
+        "METER_NO": "'07107715653",
+        "ACCT_NAME": "JOHN DECK TIMARONG",
+        "ACCT_NO": "P06494300",
+        "VOUCHER_NO": "0419 3286 2705 0005 0188",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:46:31",
+        "RECEIPT_NO": "85046\/20561",
+        "METER_NO": "'07137643792",
+        "ACCT_NAME": "TAKEO RENGIIL",
+        "ACCT_NO": "P06540100",
+        "VOUCHER_NO": "4091 2607 7425 8239 0068",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:46:42",
+        "RECEIPT_NO": "85046\/20562",
+        "METER_NO": "'07144544306",
+        "ACCT_NAME": "KISAOL NGIRALOI",
+        "ACCT_NO": "P06400200",
+        "VOUCHER_NO": "1499 6588 8605 1936 7872",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:48:32",
+        "RECEIPT_NO": "85046\/20563",
+        "METER_NO": "'07097966555",
+        "ACCT_NAME": "EDWARD TADAO",
+        "ACCT_NO": "P06447000",
+        "VOUCHER_NO": "6160 4348 5070 3999 8500",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:48:41",
+        "RECEIPT_NO": "85046\/20564",
+        "METER_NO": "'07147932193",
+        "ACCT_NAME": "TELEBADEL BAULECHONG",
+        "ACCT_NO": "P06679400",
+        "VOUCHER_NO": "0595 1588 7046 9581 3930",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:48:51",
+        "RECEIPT_NO": "85046\/20565",
+        "METER_NO": "'07137643974",
+        "ACCT_NAME": "ESTERLITA DEMEI #2",
+        "ACCT_NO": "P06557900",
+        "VOUCHER_NO": "2132 9559 3299 0060 3371",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:49:00",
+        "RECEIPT_NO": "85046\/20566",
+        "METER_NO": "'07057819414",
+        "ACCT_NAME": "TORIBIONG TENGOLL C\/O FUANES NGIRCHOMLEI",
+        "ACCT_NO": "P06293300",
+        "VOUCHER_NO": "0683 8722 4219 5215 9600",
+        "TOTAL_KWH": "126.1",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:49:10",
+        "RECEIPT_NO": "85046\/20567",
+        "METER_NO": "'07097963842",
+        "ACCT_NAME": "ISAAC STEPHANUS",
+        "ACCT_NO": "P06424100",
+        "VOUCHER_NO": "1908 8224 4505 2542 2854",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:49:19",
+        "RECEIPT_NO": "85046\/20568",
+        "METER_NO": "'07110218869",
+        "ACCT_NAME": "SUZETTE MARYLOU RIDEP",
+        "ACCT_NO": "P06526800",
+        "VOUCHER_NO": "1718 7537 7992 7663 6936",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:49:30",
+        "RECEIPT_NO": "85046\/20569",
+        "METER_NO": "'07147899111",
+        "ACCT_NAME": "MERIBAL EWATEL 2",
+        "ACCT_NO": "P06639000",
+        "VOUCHER_NO": "1303 8671 6284 1403 2648",
+        "TOTAL_KWH": "130.8",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:49:39",
+        "RECEIPT_NO": "85046\/20570",
+        "METER_NO": "'07097971266",
+        "ACCT_NAME": "THOMAS REMENGESAU",
+        "ACCT_NO": "P06484200",
+        "VOUCHER_NO": "0769 6866 8031 1733 1004",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:49:50",
+        "RECEIPT_NO": "85046\/20571",
+        "METER_NO": "'07110218786",
+        "ACCT_NAME": "CHERYLENE RENGULBAI",
+        "ACCT_NO": "P06537400",
+        "VOUCHER_NO": "6174 1374 6250 3628 4889",
+        "TOTAL_KWH": "129.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:49:59",
+        "RECEIPT_NO": "85046\/20572",
+        "METER_NO": "'07147898550",
+        "ACCT_NAME": "ISAAC THEODORE",
+        "ACCT_NO": "P06634700",
+        "VOUCHER_NO": "1463 0509 4416 1920 3526",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:51:01",
+        "RECEIPT_NO": "85046\/20573",
+        "METER_NO": "'37263736532",
+        "ACCT_NAME": "LILI ZEAN A. NGIRABLOSECH",
+        "ACCT_NO": "P06325000",
+        "VOUCHER_NO": "2341 3190 9489 5094 5428",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:54:40",
+        "RECEIPT_NO": "85046\/20574",
+        "METER_NO": "'07147913318",
+        "ACCT_NAME": "YOHEI MERUR",
+        "ACCT_NO": "P06240500",
+        "VOUCHER_NO": "2014 7756 0691 3042 3848",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:54:51",
+        "RECEIPT_NO": "85046\/20575",
+        "METER_NO": "'07057817335",
+        "ACCT_NAME": "TOSHIWO TAKATARO RESIDENCE",
+        "ACCT_NO": "P06574100",
+        "VOUCHER_NO": "2164 8635 0026 1374 0626",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:55:00",
+        "RECEIPT_NO": "85046\/20576",
+        "METER_NO": "'07097964394",
+        "ACCT_NAME": "ALEXIS KINTO",
+        "ACCT_NO": "P06428100",
+        "VOUCHER_NO": "3800 2879 7870 9293 7599",
+        "TOTAL_KWH": "125.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:55:10",
+        "RECEIPT_NO": "85046\/20577",
+        "METER_NO": "'07147897883",
+        "ACCT_NAME": "NOLAN REBLUUD",
+        "ACCT_NO": "P06628500",
+        "VOUCHER_NO": "2079 1229 3331 8908 3895",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:55:21",
+        "RECEIPT_NO": "85046\/20578",
+        "METER_NO": "'07097967967",
+        "ACCT_NAME": "OMEBAEL BASILIUS ",
+        "ACCT_NO": "P06459000",
+        "VOUCHER_NO": "2460 5641 8041 1925 2125",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:55:32",
+        "RECEIPT_NO": "85046\/20579",
+        "METER_NO": "'07053087230",
+        "ACCT_NAME": "CLEOFAS IYAR",
+        "ACCT_NO": "P06624500",
+        "VOUCHER_NO": "4615 7882 6093 1723 5427",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:55:45",
+        "RECEIPT_NO": "85046\/20580",
+        "METER_NO": "'07147952225",
+        "ACCT_NAME": "SOLOMON MARINO 2",
+        "ACCT_NO": "P06673600",
+        "VOUCHER_NO": "5480 0969 3984 7556 0729",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:55:55",
+        "RECEIPT_NO": "85046\/20581",
+        "METER_NO": "'07097965375",
+        "ACCT_NAME": "ELLENA TADASHI",
+        "ACCT_NO": "P06435200",
+        "VOUCHER_NO": "3517 9651 5279 8714 4567",
+        "TOTAL_KWH": "130.8",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:56:03",
+        "RECEIPT_NO": "85046\/20582",
+        "METER_NO": "'07147915974",
+        "ACCT_NAME": "SCARLET NAMBERT",
+        "ACCT_NO": "P06221900",
+        "VOUCHER_NO": "3306 9028 6013 8857 1913",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:56:11",
+        "RECEIPT_NO": "85046\/20583",
+        "METER_NO": "'07050042287",
+        "ACCT_NAME": "BLANK OLSINGCH",
+        "ACCT_NO": "P06318600",
+        "VOUCHER_NO": "3246 9672 0216 2466 0085",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:56:19",
+        "RECEIPT_NO": "85046\/20584",
+        "METER_NO": "'07057818895",
+        "ACCT_NAME": "EVELYN SEKLII",
+        "ACCT_NO": "P06202700",
+        "VOUCHER_NO": "6871 3469 0490 4571 1455",
+        "TOTAL_KWH": "131.7",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:56:28",
+        "RECEIPT_NO": "85046\/20585",
+        "METER_NO": "'07147931229",
+        "ACCT_NAME": "IDA NGIRMANG",
+        "ACCT_NO": "P06232200",
+        "VOUCHER_NO": "3222 1982 1451 3912 4425",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:56:36",
+        "RECEIPT_NO": "85046\/20586",
+        "METER_NO": "'07144544611",
+        "ACCT_NAME": "LANNIE J. TSUNEO",
+        "ACCT_NO": "P06258800",
+        "VOUCHER_NO": "2889 5747 5241 1222 2374",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:56:44",
+        "RECEIPT_NO": "85046\/20587",
+        "METER_NO": "'07144545725",
+        "ACCT_NAME": "VANILLY WILLIAM",
+        "ACCT_NO": "P06609500",
+        "VOUCHER_NO": "2583 9145 4292 4880 3371",
+        "TOTAL_KWH": "130.8",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:56:53",
+        "RECEIPT_NO": "85046\/20588",
+        "METER_NO": "'07057781473",
+        "ACCT_NAME": "FRANCIS NGOTEL",
+        "ACCT_NO": "P06205300",
+        "VOUCHER_NO": "5237 7893 5072 4292 2048",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:57:02",
+        "RECEIPT_NO": "85046\/20589",
+        "METER_NO": "'07101016876",
+        "ACCT_NAME": "HESUS NGIRAILEMESANG",
+        "ACCT_NO": "P06274000",
+        "VOUCHER_NO": "6243 9883 8384 0898 7889",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:57:12",
+        "RECEIPT_NO": "85046\/20590",
+        "METER_NO": "'07077091721",
+        "ACCT_NAME": "HOSEA INACIO",
+        "ACCT_NO": "P06340900",
+        "VOUCHER_NO": "7112 6324 1723 1830 5896",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:57:20",
+        "RECEIPT_NO": "85046\/20591",
+        "METER_NO": "'07101017049",
+        "ACCT_NAME": "FUANA RUDIMCH",
+        "ACCT_NO": "P06397400",
+        "VOUCHER_NO": "1507 8897 5219 4754 5914",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:57:29",
+        "RECEIPT_NO": "85046\/20592",
+        "METER_NO": "'07110215196",
+        "ACCT_NAME": "PAULINE KUMAICHI",
+        "ACCT_NO": "P06523900",
+        "VOUCHER_NO": "7201 2597 8308 0164 0610",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:57:36",
+        "RECEIPT_NO": "85046\/20593",
+        "METER_NO": "'07107716339",
+        "ACCT_NAME": "KERKIRS MASAYOSHI",
+        "ACCT_NO": "P06499600",
+        "VOUCHER_NO": "4238 3124 3318 8170 2502",
+        "TOTAL_KWH": "134.1",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:57:44",
+        "RECEIPT_NO": "85046\/20594",
+        "METER_NO": "'07110215386",
+        "ACCT_NAME": "EDEN BENHART",
+        "ACCT_NO": "P06546000",
+        "VOUCHER_NO": "7182 9380 2114 5672 5537",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:57:55",
+        "RECEIPT_NO": "85046\/20595",
+        "METER_NO": "'07097969971",
+        "ACCT_NAME": "EVELYN ANDREAS",
+        "ACCT_NO": "P06290100",
+        "VOUCHER_NO": "6874 3294 9271 3800 0762",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:58:04",
+        "RECEIPT_NO": "85046\/20596",
+        "METER_NO": "'07147916402",
+        "ACCT_NAME": "OLSUDONG OIKANG",
+        "ACCT_NO": "P06292300",
+        "VOUCHER_NO": "4210 3210 0927 1588 7041",
+        "TOTAL_KWH": "128.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:58:13",
+        "RECEIPT_NO": "85046\/20597",
+        "METER_NO": "'07107717550",
+        "ACCT_NAME": "ANITA TEBLAK AND SECHALKUI NGIRNGESECHEI",
+        "ACCT_NO": "P06516500",
+        "VOUCHER_NO": "3469 6119 4936 8417 0991",
+        "TOTAL_KWH": "131.7",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:58:38",
+        "RECEIPT_NO": "85046\/20598",
+        "METER_NO": "'07110216103",
+        "ACCT_NAME": "LUCIO ISAAC JR.",
+        "ACCT_NO": "P06264900",
+        "VOUCHER_NO": "2112 2144 5112 0854 9817",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:58:52",
+        "RECEIPT_NO": "85046\/20599",
+        "METER_NO": "'07107716032",
+        "ACCT_NAME": "ELIA KUAL ",
+        "ACCT_NO": "P06497300",
+        "VOUCHER_NO": "6596 3902 4506 7379 1582",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 15:59:55",
+        "RECEIPT_NO": "85046\/20600",
+        "METER_NO": "'07110879629",
+        "ACCT_NAME": "RAINA BAILAS",
+        "ACCT_NO": "P06585300",
+        "VOUCHER_NO": "2258 1720 1727 2714 3931",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:00:05",
+        "RECEIPT_NO": "85046\/20601",
+        "METER_NO": "'07147898576",
+        "ACCT_NAME": "LYDIA ELLECHEL",
+        "ACCT_NO": "P06633300",
+        "VOUCHER_NO": "5470 6991 0343 1962 0323",
+        "TOTAL_KWH": "143.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:00:14",
+        "RECEIPT_NO": "85046\/20602",
+        "METER_NO": "'07147948306",
+        "ACCT_NAME": "JUSLEE MAUI",
+        "ACCT_NO": "P06673000",
+        "VOUCHER_NO": "4926 1735 3966 0510 0957",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:00:22",
+        "RECEIPT_NO": "85046\/20603",
+        "METER_NO": "'07077095508",
+        "ACCT_NAME": "VERONICA ARBEDUL",
+        "ACCT_NO": "P06227500",
+        "VOUCHER_NO": "2037 3746 8861 2969 5827",
+        "TOTAL_KWH": "124.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:00:32",
+        "RECEIPT_NO": "85046\/20604",
+        "METER_NO": "'07107716776",
+        "ACCT_NAME": "LUCINDA OMISONG",
+        "ACCT_NO": "P06303300",
+        "VOUCHER_NO": "1596 0859 6991 1892 7858",
+        "TOTAL_KWH": "143.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:00:40",
+        "RECEIPT_NO": "85046\/20605",
+        "METER_NO": "'07144543282",
+        "ACCT_NAME": "LEVITICUS LUKAS 2",
+        "ACCT_NO": "P06620700",
+        "VOUCHER_NO": "2126 5111 1267 8349 0167",
+        "TOTAL_KWH": "136.9",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:00:48",
+        "RECEIPT_NO": "85046\/20606",
+        "METER_NO": "'07110215204",
+        "ACCT_NAME": "ELSIE AARON",
+        "ACCT_NO": "P06523700",
+        "VOUCHER_NO": "6736 5866 4780 2266 1889",
+        "TOTAL_KWH": "140.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:01:34",
+        "RECEIPT_NO": "85046\/20607",
+        "METER_NO": "'07097968270",
+        "ACCT_NAME": "PALAU HOUSING #10",
+        "ACCT_NO": "P06461700",
+        "VOUCHER_NO": "6028 7929 4918 7198 9401",
+        "TOTAL_KWH": "129.5",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:01:51",
+        "RECEIPT_NO": "85046\/20608",
+        "METER_NO": "'07144540668",
+        "ACCT_NAME": "BUCK MILLER",
+        "ACCT_NO": "P06614900",
+        "VOUCHER_NO": "5497 3762 9909 2084 8514",
+        "TOTAL_KWH": "136.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:02:03",
+        "RECEIPT_NO": "85046\/20609",
+        "METER_NO": "'07101015985",
+        "ACCT_NAME": "MELONEY SILIANG",
+        "ACCT_NO": "P06404400",
+        "VOUCHER_NO": "1368 8576 2280 5473 6903",
+        "TOTAL_KWH": "140.4",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:02:12",
+        "RECEIPT_NO": "85046\/20610",
+        "METER_NO": "'07147944826",
+        "ACCT_NAME": "NERLINA MEREB",
+        "ACCT_NO": "P06367300",
+        "VOUCHER_NO": "4912 8577 4732 6799 0482",
+        "TOTAL_KWH": "131.7",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:02:21",
+        "RECEIPT_NO": "85046\/20611",
+        "METER_NO": "'07110879827",
+        "ACCT_NAME": "SEIICHI RIUMD",
+        "ACCT_NO": "P06586600",
+        "VOUCHER_NO": "4448 7733 0045 0040 4247",
+        "TOTAL_KWH": "143.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:02:30",
+        "RECEIPT_NO": "85046\/20612",
+        "METER_NO": "'07050042436",
+        "ACCT_NAME": "JOHNNY MONGAMI",
+        "ACCT_NO": "P06320500",
+        "VOUCHER_NO": "2196 2139 6233 0304 8992",
+        "TOTAL_KWH": "133.2",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:02:41",
+        "RECEIPT_NO": "85046\/20613",
+        "METER_NO": "'07137644766",
+        "ACCT_NAME": "RECHESENGEL IYECHAD",
+        "ACCT_NO": "P06563500",
+        "VOUCHER_NO": "2726 6104 5627 1322 0836",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:02:49",
+        "RECEIPT_NO": "85046\/20614",
+        "METER_NO": "'07107715695",
+        "ACCT_NAME": "MARTIN UCHERBELAU",
+        "ACCT_NO": "P06235200",
+        "VOUCHER_NO": "2609 4956 3442 9105 3628",
+        "TOTAL_KWH": "126.9",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:02:58",
+        "RECEIPT_NO": "85046\/20615",
+        "METER_NO": "'07053085937",
+        "ACCT_NAME": "SISKIND ADELBAI",
+        "ACCT_NO": "P06193200",
+        "VOUCHER_NO": "0169 8304 0083 9815 1883",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:03:07",
+        "RECEIPT_NO": "85046\/20616",
+        "METER_NO": "'07050042477",
+        "ACCT_NAME": "TAKEMITS OBEKETANG",
+        "ACCT_NO": "P06320200",
+        "VOUCHER_NO": "4160 6467 4229 6294 3861",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:03:15",
+        "RECEIPT_NO": "85046\/20617",
+        "METER_NO": "'07147916410",
+        "ACCT_NAME": "NGIRATRANG KYOTA",
+        "ACCT_NO": "P06706300",
+        "VOUCHER_NO": "0921 4037 0286 3465 1083",
+        "TOTAL_KWH": "132.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:03:24",
+        "RECEIPT_NO": "85046\/20618",
+        "METER_NO": "'07101016322",
+        "ACCT_NAME": "LOVELYN APRIL",
+        "ACCT_NO": "P06400400",
+        "VOUCHER_NO": "2734 2740 4931 2503 5657",
+        "TOTAL_KWH": "134.1",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:03:32",
+        "RECEIPT_NO": "85046\/20619",
+        "METER_NO": "'07110879074",
+        "ACCT_NAME": "DEXTER DECHERONG",
+        "ACCT_NO": "P06581600",
+        "VOUCHER_NO": "5289 8059 6001 8386 1583",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:03:41",
+        "RECEIPT_NO": "85046\/20620",
+        "METER_NO": "'07137643362",
+        "ACCT_NAME": "MARIA SANTOS",
+        "ACCT_NO": "P06216200",
+        "VOUCHER_NO": "6833 6351 9442 4682 8512",
+        "TOTAL_KWH": "127.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:03:49",
+        "RECEIPT_NO": "85046\/20621",
+        "METER_NO": "'07107717345",
+        "ACCT_NAME": "PEASLEY NGIRAIBAKES",
+        "ACCT_NO": "P06512200",
+        "VOUCHER_NO": "2170 4081 0896 8620 0646",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:03:59",
+        "RECEIPT_NO": "85046\/20622",
+        "METER_NO": "'07082735338",
+        "ACCT_NAME": "HENARO POLLOI",
+        "ACCT_NO": "P06376300",
+        "VOUCHER_NO": "5857 9580 9159 8629 8863",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:04:08",
+        "RECEIPT_NO": "85046\/20623",
+        "METER_NO": "'07101015910",
+        "ACCT_NAME": "MCKINLEY SAMUEL",
+        "ACCT_NO": "P06401500",
+        "VOUCHER_NO": "4127 5010 7603 4976 7570",
+        "TOTAL_KWH": "134.9",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:04:20",
+        "RECEIPT_NO": "85046\/20624",
+        "METER_NO": "'07110218711",
+        "ACCT_NAME": "ELIZABETH CRUZ",
+        "ACCT_NO": "P06537300",
+        "VOUCHER_NO": "2663 3662 0969 5400 2089",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:04:32",
+        "RECEIPT_NO": "85046\/20625",
+        "METER_NO": "'07147897487",
+        "ACCT_NAME": "TOSHIWO SECHARAIMUL",
+        "ACCT_NO": "P06284100",
+        "VOUCHER_NO": "7297 2392 2097 1905 7321",
+        "TOTAL_KWH": "143.1",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:04:40",
+        "RECEIPT_NO": "85046\/20626",
+        "METER_NO": "'07053084294",
+        "ACCT_NAME": "SADARIA LIROW-DOWNSTAIRS",
+        "ACCT_NO": "P06226700",
+        "VOUCHER_NO": "5196 9713 7466 7627 0645",
+        "TOTAL_KWH": "141.3",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:04:49",
+        "RECEIPT_NO": "85046\/20627",
+        "METER_NO": "'07097965656",
+        "ACCT_NAME": "SINGERU NGIRAMOLAU #8",
+        "ACCT_NO": "P06438100",
+        "VOUCHER_NO": "1210 8869 9376 5928 4017",
+        "TOTAL_KWH": "150.0",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:04:59",
+        "RECEIPT_NO": "85046\/20628",
+        "METER_NO": "'07097971142",
+        "ACCT_NAME": "YOSIO NGIRAINGAS",
+        "ACCT_NO": "P06483400",
+        "VOUCHER_NO": "6197 5061 3232 5593 1399",
+        "TOTAL_KWH": "143.6",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:05:09",
+        "RECEIPT_NO": "85046\/20629",
+        "METER_NO": "'07144536971",
+        "ACCT_NAME": "EDBURG MABEL",
+        "ACCT_NO": "P06593500",
+        "VOUCHER_NO": "6124 3204 6389 4890 0647",
+        "TOTAL_KWH": "134.9",
+        "TOTAL_VALUE": "$59.07"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:05:35",
+        "RECEIPT_NO": "85046\/20630",
+        "METER_NO": "'07147927748",
+        "ACCT_NAME": "ERIK KLOULUBAK",
+        "ACCT_NO": "P06661800",
+        "VOUCHER_NO": "2917 9103 5772 8632 8439",
+        "TOTAL_KWH": "143.9",
+        "TOTAL_VALUE": "$56.67"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:05:48",
+        "RECEIPT_NO": "85046\/20631",
+        "METER_NO": "'07057814738",
+        "ACCT_NAME": "CALVIN MASAMI",
+        "ACCT_NO": "P06250700",
+        "VOUCHER_NO": "6154 7905 0115 3993 5289",
+        "TOTAL_KWH": "139.1",
+        "TOTAL_VALUE": "$54.76"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:05:58",
+        "RECEIPT_NO": "85046\/20632",
+        "METER_NO": "'07077091853",
+        "ACCT_NAME": "ROCKY BAYAN",
+        "ACCT_NO": "P06336800",
+        "VOUCHER_NO": "0869 5942 5490 6508 1649",
+        "TOTAL_KWH": "105.4",
+        "TOTAL_VALUE": "$42.02"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:06:08",
+        "RECEIPT_NO": "85046\/20633",
+        "METER_NO": "'07147899103",
+        "ACCT_NAME": "HESUS TOWAI",
+        "ACCT_NO": "P06639200",
+        "VOUCHER_NO": "3141 7787 9502 5899 9688",
+        "TOTAL_KWH": "104.8",
+        "TOTAL_VALUE": "$41.28"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:06:18",
+        "RECEIPT_NO": "85046\/20634",
+        "METER_NO": "'07144543159",
+        "ACCT_NAME": "VICKERY SNGEBARD",
+        "ACCT_NO": "P06622200",
+        "VOUCHER_NO": "1829 1504 1655 3025 4984",
+        "TOTAL_KWH": "100.3",
+        "TOTAL_VALUE": "$40.01"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:06:31",
+        "RECEIPT_NO": "85046\/20635",
+        "METER_NO": "'07082734596",
+        "ACCT_NAME": "UCHELLAS NGIRACHITEI",
+        "ACCT_NO": "P06286200",
+        "VOUCHER_NO": "6063 6197 4570 3864 4215",
+        "TOTAL_KWH": "74.0",
+        "TOTAL_VALUE": "$29.15"
+    },
+    {
+        "ISSUE_DATE": "May 10, 2023 16:06:42",
+        "RECEIPT_NO": "85046\/20636",
+        "METER_NO": "'07110215006",
+        "ACCT_NAME": "MERII UMEDIP",
+        "ACCT_NO": "P06533200",
+        "VOUCHER_NO": "6018 4126 6589 5555 4476",
+        "TOTAL_KWH": "57.6",
+        "TOTAL_VALUE": "$22.67"
+    }
+]
