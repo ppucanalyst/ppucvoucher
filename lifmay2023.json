@@ -2,6 +2,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:05 PM",
         "RECEIPT_NO": "85046\/21661 ",
+        "METER_NO": "'07147897461",
         "ACCT_NO": "P06627100",
         "VOUCHER_NO": "4487 7544 5224 3374 8047",
         "TOTAL_KWH": 132.6,
@@ -10,6 +11,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:06 PM",
         "RECEIPT_NO": "85046\/21662 ",
+        "METER_NO": "'07137643925",
         "ACCT_NO": "P06559500",
         "VOUCHER_NO": "3529 7191 5806 2079 7905",
         "TOTAL_KWH": 128.2,
@@ -18,6 +20,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:06 PM",
         "RECEIPT_NO": "85046\/21663 ",
+        "METER_NO": "'07053085432",
         "ACCT_NO": "P06210500",
         "VOUCHER_NO": "1438 7092 0111 7880 7271",
         "TOTAL_KWH": 141.5,
@@ -26,6 +29,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:07 PM",
         "RECEIPT_NO": "85046\/21664 ",
+        "METER_NO": "'07144537078",
         "ACCT_NO": "P06593400",
         "VOUCHER_NO": "1318 2772 7715 0058 1336",
         "TOTAL_KWH": 150.0,
@@ -34,6 +38,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:07 PM",
         "RECEIPT_NO": "85046\/21665 ",
+        "METER_NO": "'07097967876",
         "ACCT_NO": "P06448900",
         "VOUCHER_NO": "6307 4655 6570 8941 3376",
         "TOTAL_KWH": 150.0,
@@ -42,6 +47,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:08 PM",
         "RECEIPT_NO": "85046\/21666 ",
+        "METER_NO": "'37263735872",
         "ACCT_NO": "P06565200",
         "VOUCHER_NO": "4892 3077 5999 9720 2370",
         "TOTAL_KWH": 150.0,
@@ -50,6 +56,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:09 PM",
         "RECEIPT_NO": "85046\/21667 ",
+        "METER_NO": "'07097962364",
         "ACCT_NO": "P06410500",
         "VOUCHER_NO": "4187 0792 9770 0842 3986",
         "TOTAL_KWH": 128.2,
@@ -58,6 +65,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:09 PM",
         "RECEIPT_NO": "85046\/21668 ",
+        "METER_NO": "'07050042287",
         "ACCT_NO": "P06318600",
         "VOUCHER_NO": "5958 8597 9967 3308 0654",
         "TOTAL_KWH": 124.3,
@@ -66,6 +74,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:09 PM",
         "RECEIPT_NO": "85046\/21669 ",
+        "METER_NO": "'07077095656",
         "ACCT_NO": "P06366000",
         "VOUCHER_NO": "1864 9703 7745 3815 1378",
         "TOTAL_KWH": 141.3,
@@ -74,6 +83,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:10 PM",
         "RECEIPT_NO": "85046\/21670 ",
+        "METER_NO": "'07144540668",
         "ACCT_NO": "P06614900",
         "VOUCHER_NO": "3207 3586 4202 2484 5402",
         "TOTAL_KWH": 155.9,
@@ -82,6 +92,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:10 PM",
         "RECEIPT_NO": "85046\/21671 ",
+        "METER_NO": "'07053085614",
         "ACCT_NO": "P06193400",
         "VOUCHER_NO": "2652 8276 8763 1769 1532",
         "TOTAL_KWH": 128.2,
@@ -90,6 +101,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:10 PM",
         "RECEIPT_NO": "85046\/21672 ",
+        "METER_NO": "'07055922640",
         "ACCT_NO": "P06329200",
         "VOUCHER_NO": "6266 8812 4248 4119 5977",
         "TOTAL_KWH": 124.3,
@@ -98,6 +110,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:10 PM",
         "RECEIPT_NO": "85046\/21673 ",
+        "METER_NO": "'07053087230",
         "ACCT_NO": "P06624500",
         "VOUCHER_NO": "1445 8131 1347 2949 0967",
         "TOTAL_KWH": 142.8,
@@ -106,6 +119,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:10 PM",
         "RECEIPT_NO": "85046\/21674 ",
+        "METER_NO": "'07144537870",
         "ACCT_NO": "P06599100",
         "VOUCHER_NO": "0564 8575 7850 0879 8007",
         "TOTAL_KWH": 124.3,
@@ -114,6 +128,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:11 PM",
         "RECEIPT_NO": "85046\/21675 ",
+        "METER_NO": "'07144536971",
         "ACCT_NO": "P06593500",
         "VOUCHER_NO": "2226 3347 6275 7714 4816",
         "TOTAL_KWH": 141.3,
@@ -122,6 +137,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:11 PM",
         "RECEIPT_NO": "85046\/21676 ",
+        "METER_NO": "'07144545758",
         "ACCT_NO": "P06369600",
         "VOUCHER_NO": "3587 0277 6541 4532 0781",
         "TOTAL_KWH": 124.3,
@@ -130,6 +146,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:11 PM",
         "RECEIPT_NO": "85046\/21677 ",
+        "METER_NO": "'07144536997",
         "ACCT_NO": "P06593700",
         "VOUCHER_NO": "2594 3673 6444 4683 0745",
         "TOTAL_KWH": 141.3,
@@ -138,6 +155,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:11 PM",
         "RECEIPT_NO": "85046\/21678 ",
+        "METER_NO": "'07097968494",
         "ACCT_NO": "P06464500",
         "VOUCHER_NO": "5445 2197 6421 4755 6126",
         "TOTAL_KWH": 126.1,
@@ -146,6 +164,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:12 PM",
         "RECEIPT_NO": "85046\/21679 ",
+        "METER_NO": "'07147931468",
         "ACCT_NO": "P06666400",
         "VOUCHER_NO": "5345 1566 6354 0035 6709",
         "TOTAL_KWH": 150.0,
@@ -154,6 +173,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:12 PM",
         "RECEIPT_NO": "85046\/21680 ",
+        "METER_NO": "'07137644337",
         "ACCT_NO": "P06556000",
         "VOUCHER_NO": "4210 6281 1542 2111 4413",
         "TOTAL_KWH": 128.2,
@@ -162,6 +182,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:13 PM",
         "RECEIPT_NO": "85046\/21681 ",
+        "METER_NO": "'07110879074",
         "ACCT_NO": "P06581600",
         "VOUCHER_NO": "1265 4743 3358 0512 1487",
         "TOTAL_KWH": 150.0,
@@ -170,6 +191,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:13 PM",
         "RECEIPT_NO": "85046\/21682 ",
+        "METER_NO": "'07110879330",
         "ACCT_NO": "P06584300",
         "VOUCHER_NO": "7354 6194 6225 3604 8338",
         "TOTAL_KWH": 150.0,
@@ -178,6 +200,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:13 PM",
         "RECEIPT_NO": "85046\/21683 ",
+        "METER_NO": "'07077091655",
         "ACCT_NO": "P06342300",
         "VOUCHER_NO": "3661 8945 8407 0226 5821",
         "TOTAL_KWH": 124.3,
@@ -186,6 +209,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:14 PM",
         "RECEIPT_NO": "85046\/21684 ",
+        "METER_NO": "'07106548923",
         "ACCT_NO": "P06205800",
         "VOUCHER_NO": "0706 2196 5249 6136 5607",
         "TOTAL_KWH": 128.2,
@@ -194,6 +218,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:14 PM",
         "RECEIPT_NO": "85046\/21685 ",
+        "METER_NO": "'07110215386",
         "ACCT_NO": "P06546000",
         "VOUCHER_NO": "7168 7335 0891 7942 2085",
         "TOTAL_KWH": 128.2,
@@ -202,6 +227,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:14 PM",
         "RECEIPT_NO": "85046\/21686 ",
+        "METER_NO": "'07077091440",
         "ACCT_NO": "P06343100",
         "VOUCHER_NO": "2911 1991 7711 8351 8913",
         "TOTAL_KWH": 124.3,
@@ -210,6 +236,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:14 PM",
         "RECEIPT_NO": "85046\/21687 ",
+        "METER_NO": "'07107715695",
         "ACCT_NO": "P06235200",
         "VOUCHER_NO": "0183 0018 7641 7442 0157",
         "TOTAL_KWH": 139.1,
@@ -218,6 +245,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:15 PM",
         "RECEIPT_NO": "85046\/21688 ",
+        "METER_NO": "'07097965375",
         "ACCT_NO": "P06435200",
         "VOUCHER_NO": "7375 8438 5022 6296 3203",
         "TOTAL_KWH": 140.4,
@@ -226,6 +254,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:15 PM",
         "RECEIPT_NO": "85046\/21689 ",
+        "METER_NO": "'07097969666",
         "ACCT_NO": "P06504200",
         "VOUCHER_NO": "7081 7114 1270 1528 7145",
         "TOTAL_KWH": 132.6,
@@ -234,6 +263,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:16 PM",
         "RECEIPT_NO": "85046\/21690 ",
+        "METER_NO": "'07110215204",
         "ACCT_NO": "P06523700",
         "VOUCHER_NO": "1744 1932 7215 8561 1655",
         "TOTAL_KWH": 150.0,
@@ -242,6 +272,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:16 PM",
         "RECEIPT_NO": "85046\/21691 ",
+        "METER_NO": "'07110215337",
         "ACCT_NO": "P06284600",
         "VOUCHER_NO": "0681 2777 6079 1999 1869",
         "TOTAL_KWH": 131.7,
@@ -250,6 +281,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:16 PM",
         "RECEIPT_NO": "85046\/21692 ",
+        "METER_NO": "'07097969971",
         "ACCT_NO": "P06290100",
         "VOUCHER_NO": "5864 3202 9295 2916 5069",
         "TOTAL_KWH": 128.2,
@@ -258,6 +290,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:17 PM",
         "RECEIPT_NO": "85046\/21693 ",
+        "METER_NO": "'07057818895",
         "ACCT_NO": "P06202700",
         "VOUCHER_NO": "7168 7481 4590 1688 2586",
         "TOTAL_KWH": 134.9,
@@ -266,6 +299,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:17 PM",
         "RECEIPT_NO": "85046\/21694 ",
+        "METER_NO": "'07050105894",
         "ACCT_NO": "P06360800",
         "VOUCHER_NO": "1053 1939 1684 0488 3858",
         "TOTAL_KWH": 143.4,
@@ -274,6 +308,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:17 PM",
         "RECEIPT_NO": "85046\/21695 ",
+        "METER_NO": "'07097963727",
         "ACCT_NO": "P06422900",
         "VOUCHER_NO": "5153 8947 9959 9986 7067",
         "TOTAL_KWH": 141.3,
@@ -282,6 +317,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:17 PM",
         "RECEIPT_NO": "85046\/21696 ",
+        "METER_NO": "'07053086901",
         "ACCT_NO": "P06587700",
         "VOUCHER_NO": "2300 6087 7209 6616 8853",
         "TOTAL_KWH": 132.6,
@@ -290,6 +326,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:18 PM",
         "RECEIPT_NO": "85046\/21697 ",
+        "METER_NO": "'07057781473",
         "ACCT_NO": "P06205300",
         "VOUCHER_NO": "1953 8115 8660 7570 4990",
         "TOTAL_KWH": 136.9,
@@ -298,6 +335,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:18 PM",
         "RECEIPT_NO": "85046\/21698 ",
+        "METER_NO": "'07110218638",
         "ACCT_NO": "P06531600",
         "VOUCHER_NO": "2004 3247 7933 5445 0128",
         "TOTAL_KWH": 150.0,
@@ -306,6 +344,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:19 PM",
         "RECEIPT_NO": "85046\/21699 ",
+        "METER_NO": "'07110218877",
         "ACCT_NO": "P06526700",
         "VOUCHER_NO": "0738 7549 3702 4012 4165",
         "TOTAL_KWH": 135.6,
@@ -314,6 +353,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:19 PM",
         "RECEIPT_NO": "85046\/21700 ",
+        "METER_NO": "'07101017536",
         "ACCT_NO": "P06396100",
         "VOUCHER_NO": "6687 0671 4059 8683 0222",
         "TOTAL_KWH": 150.0,
@@ -322,6 +362,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:19 PM",
         "RECEIPT_NO": "85046\/21701 ",
+        "METER_NO": "'07055922731",
         "ACCT_NO": "P06329300",
         "VOUCHER_NO": "5601 9216 5820 2265 2379",
         "TOTAL_KWH": 124.3,
@@ -330,6 +371,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:19 PM",
         "RECEIPT_NO": "85046\/21702 ",
+        "METER_NO": "'07107715992",
         "ACCT_NO": "P06496200",
         "VOUCHER_NO": "6659 9504 1418 7034 3257",
         "TOTAL_KWH": 150.0,
@@ -338,6 +380,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:20 PM",
         "RECEIPT_NO": "85046\/21703 ",
+        "METER_NO": "'07097966985",
         "ACCT_NO": "P06451700",
         "VOUCHER_NO": "1782 2802 9373 9486 9779",
         "TOTAL_KWH": 124.3,
@@ -346,6 +389,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:20 PM",
         "RECEIPT_NO": "85046\/21704 ",
+        "METER_NO": "'07077096035",
         "ACCT_NO": "P06367400",
         "VOUCHER_NO": "5082 8602 1592 0688 7758",
         "TOTAL_KWH": 150.0,
@@ -354,6 +398,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:20 PM",
         "RECEIPT_NO": "85046\/21705 ",
+        "METER_NO": "'07147948892",
         "ACCT_NO": "P06665500",
         "VOUCHER_NO": "2158 0650 9300 5898 5459",
         "TOTAL_KWH": 134.9,
@@ -362,6 +407,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:20 PM",
         "RECEIPT_NO": "85046\/21706 ",
+        "METER_NO": "'07101016876",
         "ACCT_NO": "P06274000",
         "VOUCHER_NO": "4349 4303 3274 4232 2083",
         "TOTAL_KWH": 141.3,
@@ -370,6 +416,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:21 PM",
         "RECEIPT_NO": "85046\/21707 ",
+        "METER_NO": "'07147899103",
         "ACCT_NO": "P06639200",
         "VOUCHER_NO": "4473 4543 4193 8570 3441",
         "TOTAL_KWH": 104.8,
@@ -378,6 +425,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:21 PM",
         "RECEIPT_NO": "85046\/21708 ",
+        "METER_NO": "'07147931229",
         "ACCT_NO": "P06232200",
         "VOUCHER_NO": "0260 5164 7916 1861 8732",
         "TOTAL_KWH": 150.0,
@@ -386,6 +434,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:21 PM",
         "RECEIPT_NO": "85046\/21709 ",
+        "METER_NO": "'07097962679",
         "ACCT_NO": "P06413600",
         "VOUCHER_NO": "1118 1822 5096 3058 1200",
         "TOTAL_KWH": 150.0,
@@ -394,6 +443,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:21 PM",
         "RECEIPT_NO": "85046\/21710 ",
+        "METER_NO": "'07077095516",
         "ACCT_NO": "P06363400",
         "VOUCHER_NO": "0268 7703 2892 2149 8608",
         "TOTAL_KWH": 150.0,
@@ -402,6 +452,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:22 PM",
         "RECEIPT_NO": "85046\/21711 ",
+        "METER_NO": "'07144544645",
         "ACCT_NO": "P06615300",
         "VOUCHER_NO": "4934 0530 5873 6912 3517",
         "TOTAL_KWH": 124.3,
@@ -410,6 +461,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:22 PM",
         "RECEIPT_NO": "85046\/21712 ",
+        "METER_NO": "'07110897993",
         "ACCT_NO": "P06540400",
         "VOUCHER_NO": "0664 8920 2096 6821 2601",
         "TOTAL_KWH": 140.4,
@@ -418,6 +470,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:22 PM",
         "RECEIPT_NO": "85046\/21713 ",
+        "METER_NO": "'07110878522",
         "ACCT_NO": "P06578500",
         "VOUCHER_NO": "1769 4098 2900 6423 1275",
         "TOTAL_KWH": 150.0,
@@ -426,6 +479,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:22 PM",
         "RECEIPT_NO": "85046\/21714 ",
+        "METER_NO": "'07057817798",
         "ACCT_NO": "P06272400",
         "VOUCHER_NO": "5772 9246 1087 5479 5622",
         "TOTAL_KWH": 150.0,
@@ -434,6 +488,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:23 PM",
         "RECEIPT_NO": "85046\/21715 ",
+        "METER_NO": "'07110879587",
         "ACCT_NO": "P06317500",
         "VOUCHER_NO": "5527 3752 9929 6429 3867",
         "TOTAL_KWH": 124.3,
@@ -442,6 +497,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:23 PM",
         "RECEIPT_NO": "85046\/21716 ",
+        "METER_NO": "'07082736732",
         "ACCT_NO": "P06385500",
         "VOUCHER_NO": "2329 6063 4601 2547 7384",
         "TOTAL_KWH": 150.0,
@@ -450,6 +506,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:23 PM",
         "RECEIPT_NO": "85046\/21717 ",
+        "METER_NO": "'07110218661",
         "ACCT_NO": "P06531800",
         "VOUCHER_NO": "2305 7080 7649 1591 7216",
         "TOTAL_KWH": 150.0,
@@ -458,6 +515,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:23 PM",
         "RECEIPT_NO": "85046\/21718 ",
+        "METER_NO": "'07147951284",
         "ACCT_NO": "P06459800",
         "VOUCHER_NO": "3365 8830 4964 5594 5197",
         "TOTAL_KWH": 124.3,
@@ -466,6 +524,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:24 PM",
         "RECEIPT_NO": "85046\/21719 ",
+        "METER_NO": "'07107715653",
         "ACCT_NO": "P06494300",
         "VOUCHER_NO": "3195 7768 4540 6664 8536",
         "TOTAL_KWH": 140.4,
@@ -474,6 +533,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:24 PM",
         "RECEIPT_NO": "85046\/21720 ",
+        "METER_NO": "'07097968478",
         "ACCT_NO": "P06463100",
         "VOUCHER_NO": "5790 7637 4282 2452 0087",
         "TOTAL_KWH": 141.3,
@@ -482,6 +542,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:24 PM",
         "RECEIPT_NO": "85046\/21721 ",
+        "METER_NO": "'07147927656",
         "ACCT_NO": "P06674200",
         "VOUCHER_NO": "7093 0885 4312 5509 7099",
         "TOTAL_KWH": 136.9,
@@ -490,6 +551,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:25 PM",
         "RECEIPT_NO": "85046\/21722 ",
+        "METER_NO": "'07147948967",
         "ACCT_NO": "P06665800",
         "VOUCHER_NO": "5557 2407 9408 6963 2115",
         "TOTAL_KWH": 150.0,
@@ -498,6 +560,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:25 PM",
         "RECEIPT_NO": "85046\/21723 ",
+        "METER_NO": "'07147900059",
         "ACCT_NO": "P06632600",
         "VOUCHER_NO": "4297 9128 7482 0118 4517",
         "TOTAL_KWH": 150.0,
@@ -506,6 +569,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:26 PM",
         "RECEIPT_NO": "85046\/21724 ",
+        "METER_NO": "'07144537482",
         "ACCT_NO": "P06346300",
         "VOUCHER_NO": "0403 8370 0315 2163 3281",
         "TOTAL_KWH": 150.0,
@@ -514,6 +578,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:26 PM",
         "RECEIPT_NO": "85046\/21725 ",
+        "METER_NO": "'07147916014",
         "ACCT_NO": "P06710800",
         "VOUCHER_NO": "7149 3967 7733 0983 4650",
         "TOTAL_KWH": 150.0,
@@ -522,6 +587,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:26 PM",
         "RECEIPT_NO": "85046\/21726 ",
+        "METER_NO": "'07147948579",
         "ACCT_NO": "P06688100",
         "VOUCHER_NO": "2987 3672 7842 1855 5687",
         "TOTAL_KWH": 132.6,
@@ -530,6 +596,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:26 PM",
         "RECEIPT_NO": "85046\/21727 ",
+        "METER_NO": "'07082736864",
         "ACCT_NO": "P06385800",
         "VOUCHER_NO": "3646 9657 8761 5896 2827",
         "TOTAL_KWH": 150.0,
@@ -538,6 +605,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:27 PM",
         "RECEIPT_NO": "85046\/21728 ",
+        "METER_NO": "'07144544611",
         "ACCT_NO": "P06258800",
         "VOUCHER_NO": "5075 1364 6537 2667 8898",
         "TOTAL_KWH": 130.8,
@@ -546,6 +614,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:27 PM",
         "RECEIPT_NO": "85046\/21729 ",
+        "METER_NO": "'07110897233",
         "ACCT_NO": "P06541300",
         "VOUCHER_NO": "2481 0335 2950 9105 9080",
         "TOTAL_KWH": 150.0,
@@ -554,6 +623,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:28 PM",
         "RECEIPT_NO": "85046\/21730 ",
+        "METER_NO": "'07107718079",
         "ACCT_NO": "P06509200",
         "VOUCHER_NO": "2369 6755 0590 0005 8533",
         "TOTAL_KWH": 128.2,
@@ -562,6 +632,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:29 PM",
         "RECEIPT_NO": "85046\/21731 ",
+        "METER_NO": "'07050042642",
         "ACCT_NO": "P06323200",
         "VOUCHER_NO": "5343 3976 7379 7923 3300",
         "TOTAL_KWH": 148.5,
@@ -570,6 +641,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:29 PM",
         "RECEIPT_NO": "85046\/21732 ",
+        "METER_NO": "'07147930916",
         "ACCT_NO": "P06679000",
         "VOUCHER_NO": "2291 3550 9356 8931 5222",
         "TOTAL_KWH": 139.1,
@@ -578,6 +650,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:29 PM",
         "RECEIPT_NO": "85046\/21733 ",
+        "METER_NO": "'07050042543",
         "ACCT_NO": "P06235400",
         "VOUCHER_NO": "2330 7726 1581 7109 2717",
         "TOTAL_KWH": 150.0,
@@ -586,6 +659,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:29 PM",
         "RECEIPT_NO": "85046\/21734 ",
+        "METER_NO": "'07077091721",
         "ACCT_NO": "P06340900",
         "VOUCHER_NO": "1769 4455 3548 7571 7672",
         "TOTAL_KWH": 140.4,
@@ -594,6 +668,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:30 PM",
         "RECEIPT_NO": "85046\/21735 ",
+        "METER_NO": "'07110897324",
         "ACCT_NO": "P06248500",
         "VOUCHER_NO": "4171 0688 2790 3680 5428",
         "TOTAL_KWH": 141.3,
@@ -602,6 +677,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:30 PM",
         "RECEIPT_NO": "85046\/21736 ",
+        "METER_NO": "'07147910801",
         "ACCT_NO": "P06493400",
         "VOUCHER_NO": "3419 8047 0758 8617 5344",
         "TOTAL_KWH": 141.3,
@@ -610,6 +686,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:30 PM",
         "RECEIPT_NO": "85046\/21737 ",
+        "METER_NO": "'07144543282",
         "ACCT_NO": "P06620700",
         "VOUCHER_NO": "4897 8542 2966 2486 6082",
         "TOTAL_KWH": 141.3,
@@ -618,6 +695,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:30 PM",
         "RECEIPT_NO": "85046\/21738 ",
+        "METER_NO": "'07147949163",
         "ACCT_NO": "P06689900",
         "VOUCHER_NO": "2769 2517 3162 1965 3944",
         "TOTAL_KWH": 150.0,
@@ -626,6 +704,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:30 PM",
         "RECEIPT_NO": "85046\/21739 ",
+        "METER_NO": "'07144537615",
         "ACCT_NO": "P06597700",
         "VOUCHER_NO": "1304 9689 1478 5543 3942",
         "TOTAL_KWH": 141.3,
@@ -634,6 +713,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:31 PM",
         "RECEIPT_NO": "85046\/21740 ",
+        "METER_NO": "'07101016322",
         "ACCT_NO": "P06400400",
         "VOUCHER_NO": "3629 1929 8424 2328 8273",
         "TOTAL_KWH": 150.0,
@@ -642,6 +722,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:31 PM",
         "RECEIPT_NO": "85046\/21741 ",
+        "METER_NO": "'07097967520",
         "ACCT_NO": "P06234600",
         "VOUCHER_NO": "5162 9848 1161 4127 4571",
         "TOTAL_KWH": 132.6,
@@ -650,6 +731,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:31 PM",
         "RECEIPT_NO": "85046\/21742 ",
+        "METER_NO": "'07147898576",
         "ACCT_NO": "P06633300",
         "VOUCHER_NO": "3316 8549 6379 3595 3208",
         "TOTAL_KWH": 150.0,
@@ -658,6 +740,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:31 PM",
         "RECEIPT_NO": "85046\/21743 ",
+        "METER_NO": "'07144534380",
         "ACCT_NO": "P06590400",
         "VOUCHER_NO": "0061 1942 8081 0657 5367",
         "TOTAL_KWH": 143.6,
@@ -666,6 +749,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:32 PM",
         "RECEIPT_NO": "85046\/21744 ",
+        "METER_NO": "'07053087628",
         "ACCT_NO": "P06237400",
         "VOUCHER_NO": "4771 3220 2463 6054 4500",
         "TOTAL_KWH": 136.9,
@@ -674,6 +758,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:32 PM",
         "RECEIPT_NO": "85046\/21745 ",
+        "METER_NO": "'07097963784",
         "ACCT_NO": "P06423200",
         "VOUCHER_NO": "2051 1508 7394 9821 5487",
         "TOTAL_KWH": 128.2,
@@ -682,6 +767,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:32 PM",
         "RECEIPT_NO": "85046\/21746 ",
+        "METER_NO": "'07101016231",
         "ACCT_NO": "P06225000",
         "VOUCHER_NO": "5138 5118 4223 3681 8843",
         "TOTAL_KWH": 141.3,
@@ -690,6 +776,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:32 PM",
         "RECEIPT_NO": "85046\/21747 ",
+        "METER_NO": "'07101015910",
         "ACCT_NO": "P06401500",
         "VOUCHER_NO": "1893 0180 7307 1056 1444",
         "TOTAL_KWH": 150.0,
@@ -698,6 +785,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:33 PM",
         "RECEIPT_NO": "85046\/21748 ",
+        "METER_NO": "'07101015985",
         "ACCT_NO": "P06404400",
         "VOUCHER_NO": "7154 3065 8255 7021 2447",
         "TOTAL_KWH": 140.4,
@@ -706,6 +794,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:33 PM",
         "RECEIPT_NO": "85046\/21749 ",
+        "METER_NO": "'07057780285",
         "ACCT_NO": "P06297200",
         "VOUCHER_NO": "2432 7107 1770 3122 6687",
         "TOTAL_KWH": 124.3,
@@ -714,6 +803,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:33 PM",
         "RECEIPT_NO": "85046\/21750 ",
+        "METER_NO": "'07137644055",
         "ACCT_NO": "P06556300",
         "VOUCHER_NO": "7141 2768 4658 6396 8409",
         "TOTAL_KWH": 124.3,
@@ -722,6 +812,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:34 PM",
         "RECEIPT_NO": "85046\/21751 ",
+        "METER_NO": "'07110215006",
         "ACCT_NO": "P06533200",
         "VOUCHER_NO": "5647 7545 3256 0146 2563",
         "TOTAL_KWH": 57.6,
@@ -730,6 +821,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:34 PM",
         "RECEIPT_NO": "85046\/21752 ",
+        "METER_NO": "'07147952084",
         "ACCT_NO": "P06660900",
         "VOUCHER_NO": "0039 7429 8396 8782 7154",
         "TOTAL_KWH": 124.3,
@@ -738,6 +830,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:34 PM",
         "RECEIPT_NO": "85046\/21753 ",
+        "METER_NO": "'07101017387",
         "ACCT_NO": "P06390300",
         "VOUCHER_NO": "5709 3002 8943 6710 9682",
         "TOTAL_KWH": 124.3,
@@ -746,6 +839,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:35 PM",
         "RECEIPT_NO": "85046\/21754 ",
+        "METER_NO": "'07097967397",
         "ACCT_NO": "P06263600",
         "VOUCHER_NO": "6947 6889 2258 5449 0935",
         "TOTAL_KWH": 124.3,
@@ -754,6 +848,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:40 PM",
         "RECEIPT_NO": "85046\/21755 ",
+        "METER_NO": "'07097970144",
         "ACCT_NO": "P06520900",
         "VOUCHER_NO": "5266 2050 5980 7353 6232",
         "TOTAL_KWH": 131.4,
@@ -762,6 +857,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:40 PM",
         "RECEIPT_NO": "85046\/21756 ",
+        "METER_NO": "'07147950146",
         "ACCT_NO": "P06286700",
         "VOUCHER_NO": "4445 0079 9598 2793 1327",
         "TOTAL_KWH": 128.2,
@@ -770,6 +866,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:40 PM",
         "RECEIPT_NO": "85046\/21757 ",
+        "METER_NO": "'07050042246",
         "ACCT_NO": "P06319700",
         "VOUCHER_NO": "3697 6807 2338 4747 2250",
         "TOTAL_KWH": 143.6,
@@ -778,6 +875,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:41 PM",
         "RECEIPT_NO": "85046\/21758 ",
+        "METER_NO": "'07097965565",
         "ACCT_NO": "P06437200",
         "VOUCHER_NO": "1765 5250 1895 8757 9780",
         "TOTAL_KWH": 150.0,
@@ -786,6 +884,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:41 PM",
         "RECEIPT_NO": "85046\/21759 ",
+        "METER_NO": "'07097963669",
         "ACCT_NO": "P06421800",
         "VOUCHER_NO": "3840 2799 5899 8529 4905",
         "TOTAL_KWH": 150.0,
@@ -794,6 +893,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:41 PM",
         "RECEIPT_NO": "85046\/21760 ",
+        "METER_NO": "'07110215196",
         "ACCT_NO": "P06523900",
         "VOUCHER_NO": "5409 7500 0051 6361 2609",
         "TOTAL_KWH": 141.3,
@@ -802,6 +902,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:41 PM",
         "RECEIPT_NO": "85046\/21761 ",
+        "METER_NO": "'07110216145",
         "ACCT_NO": "P06238600",
         "VOUCHER_NO": "1748 1266 9432 1610 5699",
         "TOTAL_KWH": 132.6,
@@ -810,6 +911,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:42 PM",
         "RECEIPT_NO": "85046\/21762 ",
+        "METER_NO": "'07144544306",
         "ACCT_NO": "P06400200",
         "VOUCHER_NO": "5084 3517 3088 4197 8113",
         "TOTAL_KWH": 130.4,
@@ -818,6 +920,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:42 PM",
         "RECEIPT_NO": "85046\/21763 ",
+        "METER_NO": "'07101015712",
         "ACCT_NO": "P06400700",
         "VOUCHER_NO": "3077 6344 3927 4347 0918",
         "TOTAL_KWH": 150.0,
@@ -826,6 +929,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:42 PM",
         "RECEIPT_NO": "85046\/21764 ",
+        "METER_NO": "'07107716867",
         "ACCT_NO": "P06310800",
         "VOUCHER_NO": "2932 8802 5019 7756 2544",
         "TOTAL_KWH": 140.4,
@@ -834,6 +938,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:43 PM",
         "RECEIPT_NO": "85046\/21765 ",
+        "METER_NO": "'07097969864",
         "ACCT_NO": "P06473200",
         "VOUCHER_NO": "0634 4851 0152 1675 0799",
         "TOTAL_KWH": 141.3,
@@ -842,6 +947,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:43 PM",
         "RECEIPT_NO": "85046\/21766 ",
+        "METER_NO": "'07082736112",
         "ACCT_NO": "P06383400",
         "VOUCHER_NO": "2527 1623 3081 3552 1822",
         "TOTAL_KWH": 150.0,
@@ -850,6 +956,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:43 PM",
         "RECEIPT_NO": "85046\/21767 ",
+        "METER_NO": "'07110218950",
         "ACCT_NO": "P06382600",
         "VOUCHER_NO": "6897 2471 1877 0257 7371",
         "TOTAL_KWH": 142.5,
@@ -858,6 +965,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:44 PM",
         "RECEIPT_NO": "85046\/21768 ",
+        "METER_NO": "'07097963677",
         "ACCT_NO": "P06421700",
         "VOUCHER_NO": "5479 5770 0999 3951 9981",
         "TOTAL_KWH": 124.3,
@@ -866,6 +974,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:44 PM",
         "RECEIPT_NO": "85046\/21769 ",
+        "METER_NO": "'07057817400",
         "ACCT_NO": "P06217300",
         "VOUCHER_NO": "1172 1414 5389 8565 2167",
         "TOTAL_KWH": 150.0,
@@ -874,6 +983,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:44 PM",
         "RECEIPT_NO": "85046\/21770 ",
+        "METER_NO": "'07101017056",
         "ACCT_NO": "P06397800",
         "VOUCHER_NO": "1102 2746 7645 4007 7419",
         "TOTAL_KWH": 128.2,
@@ -882,6 +992,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:44 PM",
         "RECEIPT_NO": "85046\/21771 ",
+        "METER_NO": "'07097965656",
         "ACCT_NO": "P06438100",
         "VOUCHER_NO": "0583 0807 7229 0119 4539",
         "TOTAL_KWH": 150.0,
@@ -890,6 +1001,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:45 PM",
         "RECEIPT_NO": "85046\/21772 ",
+        "METER_NO": "'07053085937",
         "ACCT_NO": "P06193200",
         "VOUCHER_NO": "3316 8108 0127 4632 9343",
         "TOTAL_KWH": 150.0,
@@ -898,6 +1010,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:47 PM",
         "RECEIPT_NO": "85046\/21773 ",
+        "METER_NO": "'07053085739",
         "ACCT_NO": "P06227000",
         "VOUCHER_NO": "6777 9539 9597 5952 5546",
         "TOTAL_KWH": 150.0,
@@ -906,6 +1019,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:50 PM",
         "RECEIPT_NO": "85046\/21774 ",
+        "METER_NO": "'07110218869",
         "ACCT_NO": "P06526800",
         "VOUCHER_NO": "0810 0736 7299 2666 2089",
         "TOTAL_KWH": 143.6,
@@ -914,6 +1028,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:50 PM",
         "RECEIPT_NO": "85046\/21775 ",
+        "METER_NO": "'07144545618",
         "ACCT_NO": "P06607300",
         "VOUCHER_NO": "7319 3709 2630 6004 7288",
         "TOTAL_KWH": 142.8,
@@ -922,6 +1037,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:50 PM",
         "RECEIPT_NO": "85046\/21776 ",
+        "METER_NO": "'07050042477",
         "ACCT_NO": "P06320200",
         "VOUCHER_NO": "2307 2204 4506 7385 8399",
         "TOTAL_KWH": 150.0,
@@ -930,6 +1046,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:51 PM",
         "RECEIPT_NO": "85046\/21777 ",
+        "METER_NO": "'07137643792",
         "ACCT_NO": "P06540100",
         "VOUCHER_NO": "5655 3139 4204 2368 9031",
         "TOTAL_KWH": 124.3,
@@ -938,6 +1055,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:51 PM",
         "RECEIPT_NO": "85046\/21778 ",
+        "METER_NO": "'07110878670",
         "ACCT_NO": "P06581500",
         "VOUCHER_NO": "1745 8534 1252 1250 6002",
         "TOTAL_KWH": 150.0,
@@ -946,6 +1064,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:51 PM",
         "RECEIPT_NO": "85046\/21779 ",
+        "METER_NO": "'07147932193",
         "ACCT_NO": "P06679400",
         "VOUCHER_NO": "0137 2723 1701 4623 1615",
         "TOTAL_KWH": 141.3,
@@ -954,6 +1073,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:51 PM",
         "RECEIPT_NO": "85046\/21780 ",
+        "METER_NO": "'07147910819",
         "ACCT_NO": "P06512800",
         "VOUCHER_NO": "3154 0409 2113 1917 4204",
         "TOTAL_KWH": 150.0,
@@ -962,6 +1082,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:52 PM",
         "RECEIPT_NO": "85046\/21781 ",
+        "METER_NO": "'07097967819",
         "ACCT_NO": "P06193700",
         "VOUCHER_NO": "0973 7055 7406 4299 5238",
         "TOTAL_KWH": 150.0,
@@ -970,6 +1091,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:52 PM",
         "RECEIPT_NO": "85046\/21782 ",
+        "METER_NO": "'07057817335",
         "ACCT_NO": "P06574100",
         "VOUCHER_NO": "3091 2754 6500 2868 6876",
         "TOTAL_KWH": 150.0,
@@ -978,6 +1100,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:52 PM",
         "RECEIPT_NO": "85046\/21783 ",
+        "METER_NO": "'07144536500",
         "ACCT_NO": "P06591100",
         "VOUCHER_NO": "6054 9378 4962 6762 7610",
         "TOTAL_KWH": 139.1,
@@ -986,6 +1109,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:52 PM",
         "RECEIPT_NO": "85046\/21784 ",
+        "METER_NO": "'07057817889",
         "ACCT_NO": "P06253900",
         "VOUCHER_NO": "0923 1308 4911 0473 0942",
         "TOTAL_KWH": 132.6,
@@ -994,6 +1118,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:54 PM",
         "RECEIPT_NO": "85046\/21785 ",
+        "METER_NO": "'07082734596",
         "ACCT_NO": "P06286200",
         "VOUCHER_NO": "0029 7092 9279 5612 8191",
         "TOTAL_KWH": 74.0,
@@ -1002,6 +1127,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:55 PM",
         "RECEIPT_NO": "85046\/21786 ",
+        "METER_NO": "'07097966787",
         "ACCT_NO": "P06449300",
         "VOUCHER_NO": "5523 6379 5178 5136 5740",
         "TOTAL_KWH": 150.0,
@@ -1010,6 +1136,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:55 PM",
         "RECEIPT_NO": "85046\/21787 ",
+        "METER_NO": "'07144545725",
         "ACCT_NO": "P06609500",
         "VOUCHER_NO": "2249 4151 6646 3323 9549",
         "TOTAL_KWH": 131.7,
@@ -1018,6 +1145,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:55 PM",
         "RECEIPT_NO": "85046\/21788 ",
+        "METER_NO": "'07144544850",
         "ACCT_NO": "P06611800",
         "VOUCHER_NO": "6476 3413 4139 2525 9938",
         "TOTAL_KWH": 141.2,
@@ -1026,6 +1154,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:55 PM",
         "RECEIPT_NO": "85046\/21789 ",
+        "METER_NO": "'07107716958",
         "ACCT_NO": "P06291100",
         "VOUCHER_NO": "4712 7892 9142 5650 8035",
         "TOTAL_KWH": 124.3,
@@ -1034,6 +1163,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:56 PM",
         "RECEIPT_NO": "85046\/21790 ",
+        "METER_NO": "'07077091978",
         "ACCT_NO": "P06337900",
         "VOUCHER_NO": "4876 8277 7364 1541 0321",
         "TOTAL_KWH": 130.8,
@@ -1042,6 +1172,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:56 PM",
         "RECEIPT_NO": "85046\/21791 ",
+        "METER_NO": "'07107717345",
         "ACCT_NO": "P06512200",
         "VOUCHER_NO": "3188 0924 0905 0781 2133",
         "TOTAL_KWH": 150.0,
@@ -1050,6 +1181,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:56 PM",
         "RECEIPT_NO": "85046\/21792 ",
+        "METER_NO": "'07097964923",
         "ACCT_NO": "P06437600",
         "VOUCHER_NO": "1862 8046 9097 6001 8401",
         "TOTAL_KWH": 124.3,
@@ -1058,6 +1190,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:56 PM",
         "RECEIPT_NO": "85046\/21793 ",
+        "METER_NO": "'07107718657",
         "ACCT_NO": "P06520600",
         "VOUCHER_NO": "5188 9535 0802 3709 7444",
         "TOTAL_KWH": 150.0,
@@ -1066,6 +1199,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:57 PM",
         "RECEIPT_NO": "85046\/21794 ",
+        "METER_NO": "'07110897902",
         "ACCT_NO": "P06543800",
         "VOUCHER_NO": "1944 5320 5367 6986 2095",
         "TOTAL_KWH": 150.0,
@@ -1074,6 +1208,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:57 PM",
         "RECEIPT_NO": "85046\/21795 ",
+        "METER_NO": "'07077091739",
         "ACCT_NO": "P06340600",
         "VOUCHER_NO": "4540 5912 4284 0816 7242",
         "TOTAL_KWH": 124.3,
@@ -1082,6 +1217,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:57 PM",
         "RECEIPT_NO": "85046\/21796 ",
+        "METER_NO": "'07147913318",
         "ACCT_NO": "P06240500",
         "VOUCHER_NO": "2605 0734 3651 7319 0136",
         "TOTAL_KWH": 150.0,
@@ -1090,6 +1226,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:58 PM",
         "RECEIPT_NO": "85046\/21797 ",
+        "METER_NO": "'07097968940",
         "ACCT_NO": "P06467200",
         "VOUCHER_NO": "1016 8459 2494 1737 3288",
         "TOTAL_KWH": 128.2,
@@ -1098,6 +1235,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:58 PM",
         "RECEIPT_NO": "85046\/21798 ",
+        "METER_NO": "'07050042675",
         "ACCT_NO": "P06566400",
         "VOUCHER_NO": "1614 0835 5404 9232 8627",
         "TOTAL_KWH": 124.3,
@@ -1106,6 +1244,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:58 PM",
         "RECEIPT_NO": "85046\/21799 ",
+        "METER_NO": "'07147949320",
         "ACCT_NO": "P06693700",
         "VOUCHER_NO": "3044 4472 5612 6096 4850",
         "TOTAL_KWH": 124.3,
@@ -1114,6 +1253,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:58 PM",
         "RECEIPT_NO": "85046\/21800 ",
+        "METER_NO": "'07097965359",
         "ACCT_NO": "P06435000",
         "VOUCHER_NO": "4699 6819 5376 7376 0627",
         "TOTAL_KWH": 124.3,
@@ -1122,6 +1262,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:58 PM",
         "RECEIPT_NO": "85046\/21801 ",
+        "METER_NO": "'07110218679",
         "ACCT_NO": "P06532100",
         "VOUCHER_NO": "3133 9680 8909 9340 9503",
         "TOTAL_KWH": 131.7,
@@ -1130,6 +1271,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:59 PM",
         "RECEIPT_NO": "85046\/21802 ",
+        "METER_NO": "'07147952225",
         "ACCT_NO": "P06673600",
         "VOUCHER_NO": "0126 9489 7517 2908 1662",
         "TOTAL_KWH": 139.1,
@@ -1138,6 +1280,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:59 PM",
         "RECEIPT_NO": "85046\/21803 ",
+        "METER_NO": "'07147945500",
         "ACCT_NO": "P06678500",
         "VOUCHER_NO": "5876 4572 7321 5780 6567",
         "TOTAL_KWH": 124.3,
@@ -1146,6 +1289,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:59 PM",
         "RECEIPT_NO": "85046\/21804 ",
+        "METER_NO": "'07097971266",
         "ACCT_NO": "P06484200",
         "VOUCHER_NO": "6749 0800 8205 8004 6887",
         "TOTAL_KWH": 136.4,
@@ -1154,6 +1298,7 @@
     {
         "ISSUE_DATE": "07 June 2023 3:59 PM",
         "RECEIPT_NO": "85046\/21805 ",
+        "METER_NO": "'07101017213",
         "ACCT_NO": "P06405500",
         "VOUCHER_NO": "4894 2595 7953 9839 9495",
         "TOTAL_KWH": 150.0,
@@ -1162,6 +1307,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:00 PM",
         "RECEIPT_NO": "85046\/21806 ",
+        "METER_NO": "'07101017049",
         "ACCT_NO": "P06397400",
         "VOUCHER_NO": "5742 6583 5316 0137 4176",
         "TOTAL_KWH": 140.4,
@@ -1170,6 +1316,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:00 PM",
         "RECEIPT_NO": "85046\/21807 ",
+        "METER_NO": "'07107715513",
         "ACCT_NO": "P06492400",
         "VOUCHER_NO": "2292 2531 3059 8123 3674",
         "TOTAL_KWH": 132.6,
@@ -1178,6 +1325,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:00 PM",
         "RECEIPT_NO": "85046\/21808 ",
+        "METER_NO": "'07097961945",
         "ACCT_NO": "P06407400",
         "VOUCHER_NO": "5195 6499 2495 2591 1166",
         "TOTAL_KWH": 124.3,
@@ -1186,6 +1334,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:00 PM",
         "RECEIPT_NO": "85046\/21809 ",
+        "METER_NO": "'07057780038",
         "ACCT_NO": "P06296200",
         "VOUCHER_NO": "0628 6535 4031 1240 4916",
         "TOTAL_KWH": 124.3,
@@ -1194,6 +1343,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:00 PM",
         "RECEIPT_NO": "85046\/21810 ",
+        "METER_NO": "'07147949155",
         "ACCT_NO": "P06244800",
         "VOUCHER_NO": "1785 5817 7641 8338 9039",
         "TOTAL_KWH": 141.5,
@@ -1202,6 +1352,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:01 PM",
         "RECEIPT_NO": "85046\/21811 ",
+        "METER_NO": "'07147898360",
         "ACCT_NO": "P06630500",
         "VOUCHER_NO": "5624 5408 5177 5475 0690",
         "TOTAL_KWH": 124.3,
@@ -1210,6 +1361,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:01 PM",
         "RECEIPT_NO": "85046\/21812 ",
+        "METER_NO": "'07110879827",
         "ACCT_NO": "P06586600",
         "VOUCHER_NO": "2661 9414 5855 1429 0939",
         "TOTAL_KWH": 150.0,
@@ -1218,6 +1370,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:01 PM",
         "RECEIPT_NO": "85046\/21813 ",
+        "METER_NO": "'07110917759",
         "ACCT_NO": "P06544200",
         "VOUCHER_NO": "5198 3088 5904 3950 2663",
         "TOTAL_KWH": 143.6,
@@ -1226,6 +1379,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:02 PM",
         "RECEIPT_NO": "85046\/21814 ",
+        "METER_NO": "'07147951177",
         "ACCT_NO": "P06648800",
         "VOUCHER_NO": "1912 4198 6638 2291 1710",
         "TOTAL_KWH": 139.1,
@@ -1234,6 +1388,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:02 PM",
         "RECEIPT_NO": "85046\/21815 ",
+        "METER_NO": "'07050043079",
         "ACCT_NO": "P06325800",
         "VOUCHER_NO": "7211 0027 6354 2506 4586",
         "TOTAL_KWH": 124.3,
@@ -1242,6 +1397,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:02 PM",
         "RECEIPT_NO": "85046\/21816 ",
+        "METER_NO": "'07144544918",
         "ACCT_NO": "P06613400",
         "VOUCHER_NO": "2181 3432 6213 5008 3362",
         "TOTAL_KWH": 150.0,
@@ -1250,6 +1406,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:02 PM",
         "RECEIPT_NO": "85046\/21817 ",
+        "METER_NO": "'07053088816",
         "ACCT_NO": "P06214300",
         "VOUCHER_NO": "2881 5045 0396 7551 8751",
         "TOTAL_KWH": 124.3,
@@ -1258,6 +1415,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:02 PM",
         "RECEIPT_NO": "85046\/21818 ",
+        "METER_NO": "'07107718244",
         "ACCT_NO": "P06510600",
         "VOUCHER_NO": "1126 5077 0887 6650 0619",
         "TOTAL_KWH": 150.0,
@@ -1266,6 +1424,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:03 PM",
         "RECEIPT_NO": "85046\/21819 ",
+        "METER_NO": "'07110214876",
         "ACCT_NO": "P06524600",
         "VOUCHER_NO": "4555 0808 5434 7910 3047",
         "TOTAL_KWH": 134.9,
@@ -1274,6 +1433,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:03 PM",
         "RECEIPT_NO": "85046\/21820 ",
+        "METER_NO": "'07097966555",
         "ACCT_NO": "P06447000",
         "VOUCHER_NO": "3025 4447 2957 4954 5641",
         "TOTAL_KWH": 128.2,
@@ -1282,6 +1442,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:03 PM",
         "RECEIPT_NO": "85046\/21821 ",
+        "METER_NO": "'07097962760",
         "ACCT_NO": "P06415600",
         "VOUCHER_NO": "4931 0039 9757 5263 9035",
         "TOTAL_KWH": 141.3,
@@ -1290,6 +1451,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:03 PM",
         "RECEIPT_NO": "85046\/21822 ",
+        "METER_NO": "'07147945344",
         "ACCT_NO": "P06653100",
         "VOUCHER_NO": "2952 1422 9563 3967 3230",
         "TOTAL_KWH": 130.6,
@@ -1298,6 +1460,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:03 PM",
         "RECEIPT_NO": "85046\/21823 ",
+        "METER_NO": "'07097963842",
         "ACCT_NO": "P06424100",
         "VOUCHER_NO": "3754 2252 9691 2416 9588",
         "TOTAL_KWH": 150.0,
@@ -1306,6 +1469,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:04 PM",
         "RECEIPT_NO": "85046\/21824 ",
+        "METER_NO": "'07050042469",
         "ACCT_NO": "P06320300",
         "VOUCHER_NO": "2414 8030 8199 2260 0658",
         "TOTAL_KWH": 143.6,
@@ -1314,6 +1478,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:04 PM",
         "RECEIPT_NO": "85046\/21825 ",
+        "METER_NO": "'07082740171",
         "ACCT_NO": "P06377800",
         "VOUCHER_NO": "6414 6862 8999 9927 8229",
         "TOTAL_KWH": 150.0,
@@ -1322,6 +1487,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:04 PM",
         "RECEIPT_NO": "85046\/21826 ",
+        "METER_NO": "'07050042436",
         "ACCT_NO": "P06320500",
         "VOUCHER_NO": "5421 1465 8220 4760 8800",
         "TOTAL_KWH": 134.9,
@@ -1330,6 +1496,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:04 PM",
         "RECEIPT_NO": "85046\/21827 ",
+        "METER_NO": "'07147951318",
         "ACCT_NO": "P06657500",
         "VOUCHER_NO": "1095 3313 1324 1644 5382",
         "TOTAL_KWH": 124.3,
@@ -1338,6 +1505,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:05 PM",
         "RECEIPT_NO": "85046\/21828 ",
+        "METER_NO": "'07097965078",
         "ACCT_NO": "P06433500",
         "VOUCHER_NO": "4019 4327 5432 9409 5541",
         "TOTAL_KWH": 124.3,
@@ -1346,6 +1514,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:05 PM",
         "RECEIPT_NO": "85046\/21829 ",
+        "METER_NO": "'07097970904",
         "ACCT_NO": "P06502100",
         "VOUCHER_NO": "4007 6138 4008 3026 9471",
         "TOTAL_KWH": 128.2,
@@ -1354,6 +1523,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:05 PM",
         "RECEIPT_NO": "85046\/21830 ",
+        "METER_NO": "'07110916975",
         "ACCT_NO": "P06225500",
         "VOUCHER_NO": "6083 9320 2252 2991 7489",
         "TOTAL_KWH": 150.0,
@@ -1362,6 +1532,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:05 PM",
         "RECEIPT_NO": "85046\/21831 ",
+        "METER_NO": "'07097966670",
         "ACCT_NO": "P06448600",
         "VOUCHER_NO": "0832 8604 0089 2288 9199",
         "TOTAL_KWH": 150.0,
@@ -1370,6 +1541,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:06 PM",
         "RECEIPT_NO": "85046\/21832 ",
+        "METER_NO": "'07097967470",
         "ACCT_NO": "P06454200",
         "VOUCHER_NO": "1120 0250 5676 7107 0297",
         "TOTAL_KWH": 132.6,
@@ -1378,6 +1550,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:06 PM",
         "RECEIPT_NO": "85046\/21833 ",
+        "METER_NO": "'07050106595",
         "ACCT_NO": "P06353300",
         "VOUCHER_NO": "3380 1786 0037 1662 6309",
         "TOTAL_KWH": 150.0,
@@ -1386,6 +1559,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:06 PM",
         "RECEIPT_NO": "85046\/21834 ",
+        "METER_NO": "'07110218943",
         "ACCT_NO": "P06532500",
         "VOUCHER_NO": "1433 6621 4698 3518 5278",
         "TOTAL_KWH": 128.2,
@@ -1394,6 +1568,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:07 PM",
         "RECEIPT_NO": "85046\/21835 ",
+        "METER_NO": "'07147916204",
         "ACCT_NO": "P06704800",
         "VOUCHER_NO": "1633 0139 2305 2432 5815",
         "TOTAL_KWH": 150.0,
@@ -1402,6 +1577,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:07 PM",
         "RECEIPT_NO": "85046\/21836 ",
+        "METER_NO": "'07053087461",
         "ACCT_NO": "P06238700",
         "VOUCHER_NO": "5561 7355 2858 5286 8693",
         "TOTAL_KWH": 141.3,
@@ -1410,6 +1586,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:07 PM",
         "RECEIPT_NO": "85046\/21837 ",
+        "METER_NO": "'07101017403",
         "ACCT_NO": "P06390100",
         "VOUCHER_NO": "6959 0831 7435 4888 9707",
         "TOTAL_KWH": 124.3,
@@ -1418,6 +1595,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:07 PM",
         "RECEIPT_NO": "85046\/21838 ",
+        "METER_NO": "'07097969187",
         "ACCT_NO": "P06469000",
         "VOUCHER_NO": "3701 9205 0185 4770 0203",
         "TOTAL_KWH": 140.4,
@@ -1426,6 +1604,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:08 PM",
         "RECEIPT_NO": "85046\/21839 ",
+        "METER_NO": "'07097963529",
         "ACCT_NO": "P06421400",
         "VOUCHER_NO": "0991 0137 8417 8928 9244",
         "TOTAL_KWH": 128.2,
@@ -1434,6 +1613,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:08 PM",
         "RECEIPT_NO": "85046\/21840 ",
+        "METER_NO": "'07110879629",
         "ACCT_NO": "P06585300",
         "VOUCHER_NO": "5719 2692 0488 2371 9668",
         "TOTAL_KWH": 132.9,
@@ -1442,6 +1622,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:08 PM",
         "RECEIPT_NO": "85046\/21841 ",
+        "METER_NO": "'07147951086",
         "ACCT_NO": "P06219700",
         "VOUCHER_NO": "3851 7850 6736 7499 6727",
         "TOTAL_KWH": 126.1,
@@ -1450,6 +1631,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:08 PM",
         "RECEIPT_NO": "85046\/21842 ",
+        "METER_NO": "'07110879900",
         "ACCT_NO": "P06587000",
         "VOUCHER_NO": "6484 8288 7087 1335 3321",
         "TOTAL_KWH": 132.6,
@@ -1458,6 +1640,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:08 PM",
         "RECEIPT_NO": "85046\/21843 ",
+        "METER_NO": "'07147952233",
         "ACCT_NO": "P06673700",
         "VOUCHER_NO": "4993 6517 5742 8992 7123",
         "TOTAL_KWH": 150.0,
@@ -1466,6 +1649,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:09 PM",
         "RECEIPT_NO": "85046\/21844 ",
+        "METER_NO": "'07147915503",
         "ACCT_NO": "P06705200",
         "VOUCHER_NO": "2201 7751 2394 6781 5700",
         "TOTAL_KWH": 150.0,
@@ -1474,6 +1658,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:09 PM",
         "RECEIPT_NO": "85046\/21845 ",
+        "METER_NO": "'07107717550",
         "ACCT_NO": "P06516500",
         "VOUCHER_NO": "2657 6387 1650 2012 4737",
         "TOTAL_KWH": 143.6,
@@ -1482,6 +1667,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:09 PM",
         "RECEIPT_NO": "85046\/21846 ",
+        "METER_NO": "'07097968734",
         "ACCT_NO": "P06465400",
         "VOUCHER_NO": "6378 3198 8805 2369 9365",
         "TOTAL_KWH": 150.0,
@@ -1490,6 +1676,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:09 PM",
         "RECEIPT_NO": "85046\/21847 ",
+        "METER_NO": "'07144537466",
         "ACCT_NO": "P06597000",
         "VOUCHER_NO": "7337 3605 5746 6946 8637",
         "TOTAL_KWH": 124.3,
@@ -1498,6 +1685,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:10 PM",
         "RECEIPT_NO": "85046\/21848 ",
+        "METER_NO": "'07147945294",
         "ACCT_NO": "P06301100",
         "VOUCHER_NO": "5996 9121 1529 6213 1886",
         "TOTAL_KWH": 128.2,
@@ -1506,6 +1694,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:10 PM",
         "RECEIPT_NO": "85046\/21849 ",
+        "METER_NO": "'07057779865",
         "ACCT_NO": "P06572400",
         "VOUCHER_NO": "7343 6022 6350 8223 4544",
         "TOTAL_KWH": 150.0,
@@ -1514,6 +1703,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:10 PM",
         "RECEIPT_NO": "85046\/21850 ",
+        "METER_NO": "'07097966738",
         "ACCT_NO": "P06447100",
         "VOUCHER_NO": "2277 1732 5673 7834 2070",
         "TOTAL_KWH": 130.8,
@@ -1522,6 +1712,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:10 PM",
         "RECEIPT_NO": "85046\/21851 ",
+        "METER_NO": "'07082740023",
         "ACCT_NO": "P06374000",
         "VOUCHER_NO": "3120 8663 3866 0773 6244",
         "TOTAL_KWH": 150.0,
@@ -1530,6 +1721,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:10 PM",
         "RECEIPT_NO": "85046\/21852 ",
+        "METER_NO": "'07110214736",
         "ACCT_NO": "P06535700",
         "VOUCHER_NO": "4556 0526 3446 1681 2237",
         "TOTAL_KWH": 150.0,
@@ -1538,6 +1730,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:11 PM",
         "RECEIPT_NO": "85046\/21853 ",
+        "METER_NO": "'07097964394",
         "ACCT_NO": "P06428100",
         "VOUCHER_NO": "1473 5639 6201 1718 6776",
         "TOTAL_KWH": 132.6,
@@ -1546,6 +1739,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:11 PM",
         "RECEIPT_NO": "85046\/21854 ",
+        "METER_NO": "'07147910058",
         "ACCT_NO": "P06696500",
         "VOUCHER_NO": "4434 2484 1624 3013 6480",
         "TOTAL_KWH": 150.0,
@@ -1554,6 +1748,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:11 PM",
         "RECEIPT_NO": "85046\/21855 ",
+        "METER_NO": "'07110879793",
         "ACCT_NO": "P06588700",
         "VOUCHER_NO": "5603 4982 0158 2115 2062",
         "TOTAL_KWH": 150.0,
@@ -1562,6 +1757,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:11 PM",
         "RECEIPT_NO": "85046\/21856 ",
+        "METER_NO": "'07097968676",
         "ACCT_NO": "P06464700",
         "VOUCHER_NO": "2504 1780 3431 0211 5424",
         "TOTAL_KWH": 150.0,
@@ -1570,6 +1766,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:11 PM",
         "RECEIPT_NO": "85046\/21857 ",
+        "METER_NO": "'07147932599",
         "ACCT_NO": "P06675400",
         "VOUCHER_NO": "4335 0058 8592 9933 1668",
         "TOTAL_KWH": 128.2,
@@ -1578,6 +1775,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:12 PM",
         "RECEIPT_NO": "85046\/21858 ",
+        "METER_NO": "'07057818655",
         "ACCT_NO": "P06269600",
         "VOUCHER_NO": "4585 1762 1616 8663 9777",
         "TOTAL_KWH": 134.9,
@@ -1586,6 +1784,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:12 PM",
         "RECEIPT_NO": "85046\/21859 ",
+        "METER_NO": "'07144537508",
         "ACCT_NO": "P06598100",
         "VOUCHER_NO": "4478 9123 5314 1230 9311",
         "TOTAL_KWH": 124.3,
@@ -1594,6 +1793,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:12 PM",
         "RECEIPT_NO": "85046\/21860 ",
+        "METER_NO": "'07144537805",
         "ACCT_NO": "P06598700",
         "VOUCHER_NO": "3520 7782 6112 8275 9217",
         "TOTAL_KWH": 141.3,
@@ -1602,6 +1802,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:13 PM",
         "RECEIPT_NO": "85046\/21861 ",
+        "METER_NO": "'07106549038",
         "ACCT_NO": "P06521400",
         "VOUCHER_NO": "4366 7330 6140 7890 0316",
         "TOTAL_KWH": 150.0,
@@ -1610,6 +1811,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:13 PM",
         "RECEIPT_NO": "85046\/21862 ",
+        "METER_NO": "'07097967967",
         "ACCT_NO": "P06459000",
         "VOUCHER_NO": "6132 7758 6422 5969 7411",
         "TOTAL_KWH": 150.0,
@@ -1618,6 +1820,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:13 PM",
         "RECEIPT_NO": "85046\/21863 ",
+        "METER_NO": "'07147916402",
         "ACCT_NO": "P06292300",
         "VOUCHER_NO": "3601 3602 8479 9344 6036",
         "TOTAL_KWH": 150.0,
@@ -1626,6 +1829,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:13 PM",
         "RECEIPT_NO": "85046\/21864 ",
+        "METER_NO": "'07097971142",
         "ACCT_NO": "P06483400",
         "VOUCHER_NO": "3393 0586 8475 5967 6905",
         "TOTAL_KWH": 128.2,
@@ -1634,6 +1838,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:13 PM",
         "RECEIPT_NO": "85046\/21865 ",
+        "METER_NO": "'07144534273",
         "ACCT_NO": "P06589500",
         "VOUCHER_NO": "3008 6769 3898 4421 8208",
         "TOTAL_KWH": 150.0,
@@ -1642,6 +1847,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:14 PM",
         "RECEIPT_NO": "85046\/21866 ",
+        "METER_NO": "'07147944826",
         "ACCT_NO": "P06367300",
         "VOUCHER_NO": "6988 9032 3108 1391 3514",
         "TOTAL_KWH": 143.6,
@@ -1650,6 +1856,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:14 PM",
         "RECEIPT_NO": "85046\/21867 ",
+        "METER_NO": "'07147948306",
         "ACCT_NO": "P06673000",
         "VOUCHER_NO": "6952 3059 1412 5208 1850",
         "TOTAL_KWH": 132.6,
@@ -1658,6 +1865,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:14 PM",
         "RECEIPT_NO": "85046\/21868 ",
+        "METER_NO": "'07147899111",
         "ACCT_NO": "P06639000",
         "VOUCHER_NO": "4201 4669 9334 3441 4161",
         "TOTAL_KWH": 128.2,
@@ -1666,6 +1874,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:14 PM",
         "RECEIPT_NO": "85046\/21869 ",
+        "METER_NO": "'07137643362",
         "ACCT_NO": "P06216200",
         "VOUCHER_NO": "3904 7211 8203 2060 5559",
         "TOTAL_KWH": 150.0,
@@ -1674,6 +1883,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:15 PM",
         "RECEIPT_NO": "85046\/21870 ",
+        "METER_NO": "'07147899053",
         "ACCT_NO": "P06635800",
         "VOUCHER_NO": "3567 5702 8973 7294 0497",
         "TOTAL_KWH": 150.0,
@@ -1682,6 +1892,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:16 PM",
         "RECEIPT_NO": "85046\/21871 ",
+        "METER_NO": "'07097968262",
         "ACCT_NO": "P06345900",
         "VOUCHER_NO": "0364 0083 7303 9071 8264",
         "TOTAL_KWH": 132.6,
@@ -1690,6 +1901,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:16 PM",
         "RECEIPT_NO": "85046\/21872 ",
+        "METER_NO": "'07147950740",
         "ACCT_NO": "P06305200",
         "VOUCHER_NO": "6998 0441 5316 7471 1239",
         "TOTAL_KWH": 150.0,
@@ -1698,6 +1910,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:17 PM",
         "RECEIPT_NO": "85046\/21873 ",
+        "METER_NO": "'07147899392",
         "ACCT_NO": "P06641100",
         "VOUCHER_NO": "6604 6882 4863 4566 4456",
         "TOTAL_KWH": 124.3,
@@ -1706,6 +1919,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:17 PM",
         "RECEIPT_NO": "85046\/21874 ",
+        "METER_NO": "'07097971555",
         "ACCT_NO": "P06487400",
         "VOUCHER_NO": "3260 6948 9431 8576 8677",
         "TOTAL_KWH": 150.0,
@@ -1714,6 +1928,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:17 PM",
         "RECEIPT_NO": "85046\/21875 ",
+        "METER_NO": "'07107717956",
         "ACCT_NO": "P06507900",
         "VOUCHER_NO": "7148 5999 6001 2862 5790",
         "TOTAL_KWH": 150.0,
@@ -1722,6 +1937,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:18 PM",
         "RECEIPT_NO": "85046\/21876 ",
+        "METER_NO": "'07110219214",
         "ACCT_NO": "P06529900",
         "VOUCHER_NO": "3067 3922 9115 2327 3852",
         "TOTAL_KWH": 150.0,
@@ -1730,6 +1946,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:18 PM",
         "RECEIPT_NO": "85046\/21877 ",
+        "METER_NO": "'07110214991",
         "ACCT_NO": "P06532800",
         "VOUCHER_NO": "0280 1486 6601 5910 2314",
         "TOTAL_KWH": 124.3,
@@ -1738,6 +1955,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:22 PM",
         "RECEIPT_NO": "85046\/21879 ",
+        "METER_NO": "'07147929066",
         "ACCT_NO": "P06697700",
         "VOUCHER_NO": "3973 7091 6691 8138 7002",
         "TOTAL_KWH": 124.3,
@@ -1746,6 +1964,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:23 PM",
         "RECEIPT_NO": "85046\/21880 ",
+        "METER_NO": "'07147916410",
         "ACCT_NO": "P06706300",
         "VOUCHER_NO": "0879 1446 1242 9126 0612",
         "TOTAL_KWH": 140.4,
@@ -1754,6 +1973,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:23 PM",
         "RECEIPT_NO": "85046\/21881 ",
+        "METER_NO": "'07147945385",
         "ACCT_NO": "P06652900",
         "VOUCHER_NO": "4912 9852 5566 9389 6289",
         "TOTAL_KWH": 132.6,
@@ -1762,6 +1982,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:23 PM",
         "RECEIPT_NO": "85046\/21882 ",
+        "METER_NO": "'07057816394",
         "ACCT_NO": "P06568300",
         "VOUCHER_NO": "5762 3309 9591 7410 5600",
         "TOTAL_KWH": 150.0,
@@ -1770,6 +1991,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:23 PM",
         "RECEIPT_NO": "85046\/21883 ",
+        "METER_NO": "'07053084658",
         "ACCT_NO": "P06203900",
         "VOUCHER_NO": "0281 0523 6122 1735 6465",
         "TOTAL_KWH": 124.3,
@@ -1778,6 +2000,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:26 PM",
         "RECEIPT_NO": "85046\/21884 ",
+        "METER_NO": "'07147927748",
         "ACCT_NO": "P06661800",
         "VOUCHER_NO": "4390 3023 3976 1271 5585",
         "TOTAL_KWH": 143.9,
@@ -1786,6 +2009,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:26 PM",
         "RECEIPT_NO": "85046\/21885 ",
+        "METER_NO": "'07050106603",
         "ACCT_NO": "P06354000",
         "VOUCHER_NO": "4298 4637 6015 7798 0236",
         "TOTAL_KWH": 124.3,
@@ -1794,6 +2018,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:26 PM",
         "RECEIPT_NO": "85046\/21886 ",
+        "METER_NO": "'07110218786",
         "ACCT_NO": "P06537400",
         "VOUCHER_NO": "2915 1130 3297 0494 3941",
         "TOTAL_KWH": 132.6,
@@ -1802,6 +2027,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:26 PM",
         "RECEIPT_NO": "85046\/21887 ",
+        "METER_NO": "'07057779352",
         "ACCT_NO": "P06301400",
         "VOUCHER_NO": "6535 2878 6684 9886 0386",
         "TOTAL_KWH": 150.0,
@@ -1810,6 +2036,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:27 PM",
         "RECEIPT_NO": "85046\/21888 ",
+        "METER_NO": "'07110214728",
         "ACCT_NO": "P06238300",
         "VOUCHER_NO": "5177 4235 6170 2318 3666",
         "TOTAL_KWH": 132.6,
@@ -1818,6 +2045,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:27 PM",
         "RECEIPT_NO": "85046\/21889 ",
+        "METER_NO": "'07097965250",
         "ACCT_NO": "P06436100",
         "VOUCHER_NO": "6135 3950 3733 4186 3873",
         "TOTAL_KWH": 126.2,
@@ -1826,6 +2054,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:27 PM",
         "RECEIPT_NO": "85046\/21890 ",
+        "METER_NO": "'07097963636",
         "ACCT_NO": "P06422000",
         "VOUCHER_NO": "6287 6753 2476 8902 6453",
         "TOTAL_KWH": 128.2,
@@ -1834,6 +2063,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:27 PM",
         "RECEIPT_NO": "85046\/21891 ",
+        "METER_NO": "'07147949916",
         "ACCT_NO": "P06224500",
         "VOUCHER_NO": "1641 2640 9755 0546 6011",
         "TOTAL_KWH": 143.6,
@@ -1842,6 +2072,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:28 PM",
         "RECEIPT_NO": "85046\/21892 ",
+        "METER_NO": "'07147910579",
         "ACCT_NO": "P06294300",
         "VOUCHER_NO": "6178 2596 3118 6973 4629",
         "TOTAL_KWH": 124.3,
@@ -1850,6 +2081,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:28 PM",
         "RECEIPT_NO": "85046\/21893 ",
+        "METER_NO": "'07097963826",
         "ACCT_NO": "P06423900",
         "VOUCHER_NO": "4192 0007 9303 5493 7055",
         "TOTAL_KWH": 150.0,
@@ -1858,6 +2090,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:28 PM",
         "RECEIPT_NO": "85046\/21894 ",
+        "METER_NO": "'07147943380",
         "ACCT_NO": "P06198400",
         "VOUCHER_NO": "5820 9059 6391 5200 6489",
         "TOTAL_KWH": 150.0,
@@ -1866,6 +2099,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:28 PM",
         "RECEIPT_NO": "85046\/21895 ",
+        "METER_NO": "'07110218711",
         "ACCT_NO": "P06537300",
         "VOUCHER_NO": "3325 4719 0831 1107 5437",
         "TOTAL_KWH": 150.0,
@@ -1874,6 +2108,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:29 PM",
         "RECEIPT_NO": "85046\/21896 ",
+        "METER_NO": "'07097971670",
         "ACCT_NO": "P06488100",
         "VOUCHER_NO": "3602 4019 2571 4691 5241",
         "TOTAL_KWH": 124.3,
@@ -1882,6 +2117,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:29 PM",
         "RECEIPT_NO": "85046\/21897 ",
+        "METER_NO": "'07110216103",
         "ACCT_NO": "P06264900",
         "VOUCHER_NO": "0727 3401 7919 8493 5782",
         "TOTAL_KWH": 134.9,
@@ -1890,6 +2126,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:29 PM",
         "RECEIPT_NO": "85046\/21898 ",
+        "METER_NO": "'07147944628",
         "ACCT_NO": "P06702300",
         "VOUCHER_NO": "2609 1712 3066 8818 8187",
         "TOTAL_KWH": 130.6,
@@ -1898,6 +2135,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:29 PM",
         "RECEIPT_NO": "85046\/21899 ",
+        "METER_NO": "'07144542946",
         "ACCT_NO": "P06423100",
         "VOUCHER_NO": "6822 6457 0938 5935 5438",
         "TOTAL_KWH": 124.3,
@@ -1906,6 +2144,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:29 PM",
         "RECEIPT_NO": "85046\/21900 ",
+        "METER_NO": "'07137643974",
         "ACCT_NO": "P06557900",
         "VOUCHER_NO": "5268 9926 5926 1967 1080",
         "TOTAL_KWH": 128.2,
@@ -1914,6 +2153,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:30 PM",
         "RECEIPT_NO": "85046\/21901 ",
+        "METER_NO": "'07107716339",
         "ACCT_NO": "P06499600",
         "VOUCHER_NO": "0810 0758 0093 6785 4948",
         "TOTAL_KWH": 150.0,
@@ -1922,6 +2162,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:30 PM",
         "RECEIPT_NO": "85046\/21902 ",
+        "METER_NO": "'07082735338",
         "ACCT_NO": "P06376300",
         "VOUCHER_NO": "6330 9692 6565 7692 1013",
         "TOTAL_KWH": 150.0,
@@ -1930,6 +2171,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:30 PM",
         "RECEIPT_NO": "85046\/21903 ",
+        "METER_NO": "'07147898550",
         "ACCT_NO": "P06634700",
         "VOUCHER_NO": "4166 1497 9026 5772 5834",
         "TOTAL_KWH": 141.6,
@@ -1938,6 +2180,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:31 PM",
         "RECEIPT_NO": "85046\/21904 ",
+        "METER_NO": "'37263736532",
         "ACCT_NO": "P06325000",
         "VOUCHER_NO": "7269 9700 1511 9196 5602",
         "TOTAL_KWH": 150.0,
@@ -1946,6 +2189,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:31 PM",
         "RECEIPT_NO": "85046\/21905 ",
+        "METER_NO": "'07057814738",
         "ACCT_NO": "P06250700",
         "VOUCHER_NO": "6300 3753 6486 6479 4874",
         "TOTAL_KWH": 139.1,
@@ -1954,6 +2198,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:32 PM",
         "RECEIPT_NO": "85046\/21906 ",
+        "METER_NO": "'07110879751",
         "ACCT_NO": "P06586100",
         "VOUCHER_NO": "1105 5938 9724 4495 8471",
         "TOTAL_KWH": 134.8,
@@ -1962,6 +2207,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:32 PM",
         "RECEIPT_NO": "85046\/21907 ",
+        "METER_NO": "'07107716032",
         "ACCT_NO": "P06497300",
         "VOUCHER_NO": "2753 8904 2901 3065 7717",
         "TOTAL_KWH": 130.6,
@@ -1970,6 +2216,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:32 PM",
         "RECEIPT_NO": "85046\/21908 ",
+        "METER_NO": "'07107716776",
         "ACCT_NO": "P06303300",
         "VOUCHER_NO": "1692 5179 0343 0013 1973",
         "TOTAL_KWH": 150.0,
@@ -1978,6 +2225,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:32 PM",
         "RECEIPT_NO": "85046\/21909 ",
+        "METER_NO": "'07147948520",
         "ACCT_NO": "P06688200",
         "VOUCHER_NO": "7309 2334 7629 4607 7049",
         "TOTAL_KWH": 134.9,
@@ -1986,6 +2234,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:33 PM",
         "RECEIPT_NO": "85046\/21910 ",
+        "METER_NO": "'07144537490",
         "ACCT_NO": "P06598300",
         "VOUCHER_NO": "1503 6952 0172 7157 3133",
         "TOTAL_KWH": 150.0,
@@ -1994,6 +2243,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:37 PM",
         "RECEIPT_NO": "85046\/21911 ",
+        "METER_NO": "'07147897487",
         "ACCT_NO": "P06284100",
         "VOUCHER_NO": "6359 2635 9999 7394 2124",
         "TOTAL_KWH": 141.3,
@@ -2002,6 +2252,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:37 PM",
         "RECEIPT_NO": "85046\/21912 ",
+        "METER_NO": "'07057817319",
         "ACCT_NO": "P06250300",
         "VOUCHER_NO": "4279 9136 8726 3735 5818",
         "TOTAL_KWH": 124.3,
@@ -2010,6 +2261,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:37 PM",
         "RECEIPT_NO": "85046\/21913 ",
+        "METER_NO": "'07097965193",
         "ACCT_NO": "P06477300",
         "VOUCHER_NO": "4322 3759 1032 4194 8232",
         "TOTAL_KWH": 141.3,
@@ -2018,6 +2270,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:37 PM",
         "RECEIPT_NO": "85046\/21914 ",
+        "METER_NO": "'07077091853",
         "ACCT_NO": "P06336800",
         "VOUCHER_NO": "5565 3512 3944 1110 3596",
         "TOTAL_KWH": 141.3,
@@ -2026,6 +2279,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:37 PM",
         "RECEIPT_NO": "85046\/21915 ",
+        "METER_NO": "'07137644766",
         "ACCT_NO": "P06563500",
         "VOUCHER_NO": "3964 9683 1307 3286 9100",
         "TOTAL_KWH": 130.8,
@@ -2034,6 +2288,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:38 PM",
         "RECEIPT_NO": "85046\/21916 ",
+        "METER_NO": "'07147915974",
         "ACCT_NO": "P06221900",
         "VOUCHER_NO": "4255 3827 4807 3536 5913",
         "TOTAL_KWH": 132.6,
@@ -2042,6 +2297,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:38 PM",
         "RECEIPT_NO": "85046\/21917 ",
+        "METER_NO": "'07147897883",
         "ACCT_NO": "P06628500",
         "VOUCHER_NO": "5687 8472 1179 4135 2964",
         "TOTAL_KWH": 141.3,
@@ -2050,6 +2306,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:38 PM",
         "RECEIPT_NO": "85046\/21918 ",
+        "METER_NO": "'07097968270",
         "ACCT_NO": "P06461700",
         "VOUCHER_NO": "0564 4342 1300 8053 0011",
         "TOTAL_KWH": 140.4,
@@ -2058,6 +2315,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:38 PM",
         "RECEIPT_NO": "85046\/21919 ",
+        "METER_NO": "'07053084294",
         "ACCT_NO": "P06226700",
         "VOUCHER_NO": "6080 2696 2214 7421 5025",
         "TOTAL_KWH": 134.9,
@@ -2066,6 +2324,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:39 PM",
         "RECEIPT_NO": "85046\/21920 ",
+        "METER_NO": "'07057819414",
         "ACCT_NO": "P06293300",
         "VOUCHER_NO": "2169 6619 0623 2760 3666",
         "TOTAL_KWH": 130.8,
@@ -2074,6 +2333,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:39 PM",
         "RECEIPT_NO": "85046\/21921 ",
+        "METER_NO": "'07144545261",
         "ACCT_NO": "P06603500",
         "VOUCHER_NO": "1943 4101 0106 7544 4785",
         "TOTAL_KWH": 136.9,
@@ -2082,6 +2342,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:39 PM",
         "RECEIPT_NO": "85046\/21922 ",
+        "METER_NO": "'07144543159",
         "ACCT_NO": "P06622200",
         "VOUCHER_NO": "4062 9408 2114 2131 1485",
         "TOTAL_KWH": 136.9,
@@ -2090,6 +2351,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:39 PM",
         "RECEIPT_NO": "85046\/21923 ",
+        "METER_NO": "'07077095508",
         "ACCT_NO": "P06227500",
         "VOUCHER_NO": "6750 7765 1017 0729 2075",
         "TOTAL_KWH": 131.7,
@@ -2098,6 +2360,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:39 PM",
         "RECEIPT_NO": "85046\/21924 ",
+        "METER_NO": "'07144544702",
         "ACCT_NO": "P06615700",
         "VOUCHER_NO": "0105 8828 4638 6419 4431",
         "TOTAL_KWH": 124.3,
@@ -2106,6 +2369,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:40 PM",
         "RECEIPT_NO": "85046\/21925 ",
+        "METER_NO": "'07110878464",
         "ACCT_NO": "P06375400",
         "VOUCHER_NO": "0472 1280 6092 7189 9146",
         "TOTAL_KWH": 124.3,
@@ -2114,6 +2378,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:40 PM",
         "RECEIPT_NO": "85046\/21926 ",
+        "METER_NO": "'07147943331",
         "ACCT_NO": "P06286000",
         "VOUCHER_NO": "1232 2451 9558 0273 0285",
         "TOTAL_KWH": 124.3,
@@ -2122,6 +2387,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:40 PM",
         "RECEIPT_NO": "85046\/21927 ",
+        "METER_NO": "'07110897142",
         "ACCT_NO": "P06543100",
         "VOUCHER_NO": "0797 5211 2597 2940 4066",
         "TOTAL_KWH": 124.3,
@@ -2130,6 +2396,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:41 PM",
         "RECEIPT_NO": "85046\/21928 ",
+        "METER_NO": "'07097970367",
         "ACCT_NO": "P06475700",
         "VOUCHER_NO": "5658 2995 0335 5468 0765",
         "TOTAL_KWH": 108.8,
@@ -2138,6 +2405,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:41 PM",
         "RECEIPT_NO": "85046\/21929 ",
+        "METER_NO": "'07147927763",
         "ACCT_NO": "P06661400",
         "VOUCHER_NO": "5845 9706 7230 6132 2484",
         "TOTAL_KWH": 130.8,
@@ -2146,6 +2414,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:41 PM",
         "RECEIPT_NO": "85046\/21930 ",
+        "METER_NO": "'07097966316",
         "ACCT_NO": "P06444700",
         "VOUCHER_NO": "0756 6067 5469 9988 7347",
         "TOTAL_KWH": 141.3,
@@ -2154,6 +2423,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:41 PM",
         "RECEIPT_NO": "85046\/21931 ",
+        "METER_NO": "'07097970110",
         "ACCT_NO": "P06293800",
         "VOUCHER_NO": "3266 2479 3199 8048 8455",
         "TOTAL_KWH": 136.9,
@@ -2162,6 +2432,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:42 PM",
         "RECEIPT_NO": "85046\/21932 ",
+        "METER_NO": "'07077095680",
         "ACCT_NO": "P06365600",
         "VOUCHER_NO": "6918 2057 6352 3045 6397",
         "TOTAL_KWH": 124.3,
@@ -2170,6 +2441,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:42 PM",
         "RECEIPT_NO": "85046\/21933 ",
+        "METER_NO": "'07097965052",
         "ACCT_NO": "P06433300",
         "VOUCHER_NO": "2129 1120 5231 5271 0872",
         "TOTAL_KWH": 124.3,
@@ -2178,6 +2450,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:42 PM",
         "RECEIPT_NO": "85046\/21934 ",
+        "METER_NO": "'07097964402",
         "ACCT_NO": "P06428200",
         "VOUCHER_NO": "4324 3375 8874 3382 8195",
         "TOTAL_KWH": 124.3,
@@ -2186,6 +2459,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:42 PM",
         "RECEIPT_NO": "85046\/21935 ",
+        "METER_NO": "'07147949049",
         "ACCT_NO": "P06689600",
         "VOUCHER_NO": "5533 2958 6548 6872 8349",
         "TOTAL_KWH": 139.1,
@@ -2194,6 +2468,7 @@
     {
         "ISSUE_DATE": "07 June 2023 4:43 PM",
         "RECEIPT_NO": "85046\/21936 ",
+        "METER_NO": "'07050106637",
         "ACCT_NO": "P06353500",
         "VOUCHER_NO": "6385 7957 2578 2000 0807",
         "TOTAL_KWH": 130.8,
